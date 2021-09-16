@@ -1,9 +1,9 @@
 # Comparing 4 experiments
 The 4 Experiments are as followed:
-1. a) Without Undersampling and without dropout
-1. b) With undersampling but without dropout
-2. a) Without Undersampling but with dropout
-2. b) With undersampling and with dropout
+1/a/ Without Undersampling and without dropout
+1/b/ With undersampling but without dropout
+2/a/ Without Undersampling but with dropout
+2/b/ With undersampling and with dropout
 
 Uni-LSTM
 - In 4 experiments, for Uni-LSTM model, all of them have the best AUC score of validation set on the base model (1.a - 75, 1.b - 78%, 2.a - 73, 2.b - 76).
