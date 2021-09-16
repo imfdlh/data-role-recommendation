@@ -1,0 +1,1749 @@
+available_since,company,job_description,job_title,location
+11 days ago,LingoAce,"About LingoAce,
+Founded in 2016, Singapore-based LingoAce is the leading Chinese language platform, offering an immersive language learning experience to young learners aged 4 to 15 years old globally. The platform harnesses the capabilities of passionate native Chinese-speaking teachers along with research-backed digital content, featuring animation, gamification and AI, to effectively deliver its globally accredited Chinese syllabi through small group and one-on-one live classes. LingoAce’s in-house team of global curriculum specialists – with multi-disciplinary expertise in Chinese language learning, K-12 education, and child psychology – designs and delivers authentic, engaging online language learning tailored to meet the needs of every learner, across a range of language proficiency levels and diverse cultural backgrounds.,
+,
+To date, the company has provided live online classes to over 300,000 registered learners across 80 countries, helping them gain access to an effective, immersive language learning experience that cannot be achieved through traditional learning methods.,
+,
+With regional offices in the US, Southeast Asia and China, the firm currently has a team of over 1,000 employees - including its own in-house curriculum specialists and creative designers – and more than 2,500 certified teachers.,
+,
+LingoAce raised a Series B funding round in early 2021. This financing follows its US$13 million Series A, led by Sequoia Capital and Shunwei Capital in 2020. More information can be found at www.lingoace.com.,
+Responsibilities:,
+,Create reproducible analytics module for company’s key metrics,
+,Design and build automated analytic tasks for high-frequency reporting needs,
+,Produce technical documentation of key metrics for knowledge-transfer purposes,
+,Act as an administrator to Indonesia Team’s databases and data repository
+,Requirements,
+,IT Education Background is preferable,
+,Minimal 1 (one) year experience working in a Data Team (as analyst or engineer),
+,Able to crunch data using either R or Python
+,Have a working knowledge of REST API and ETL operation
+,Proficiency of JavaScript will be a plus point
+,Background experience on using Tableau and Tableau Prep Builder is a plus point",Data Engineer,Jakarta
+11 days ago,ZALORA SEA,"In this role, the Data Engineer at ZALORA will be a part of the Data Sciences Innovation Lab.,
+This team serves as the gatekeepers and curators of the BIG data collected into the Data,
+Warehouse/Data Lake from all aspects of our fashion e-commerce business and support,
+data-driven decision-making. He/she will conduct complex data analysis, continuously evolve,
+management reporting, and deliver business insights in an environment of rapid growth and,
+increasing complexity.,
+Responsibilities:,
+Drive the full lifecycle of Data Science projects: from gathering and understanding the end-user needs to implement a fully automated solution.,
+Develop and provision of Data pipelines to enable self-service reports and dashboards.,
+Deploy Analytics techniques to answer the appropriate business problems using SQL, R or Python.,
+Visualize data using Tableau and create repeatable visual analysis for end users to use as tools.,
+Take ownership of the existing BI platforms and maintain the data integrity and accuracy of the numbers and data sources.,
+Know Agile - Scrum project management experience/knowledge - Ability to prioritise, pushback and effectively manage a data product and sprint backlog.,
+Requirements:,
+4+ years of experience in building out scalable and reliable ETL/ELT pipelines and processes to ingest data from a variety of data sources, preferably in the eCommerce retail industry.,
+Deep understanding of Relational Database Management Systems (RDBMS) (e.g. PostgreSQL, MySQL), No-SQL Databases (e.g. MongoDB, ElasticSearch) and hands-on experience in implementation and performance tuning of MPP databases (e.g. Redshift, BigQuery).,
+Experience with Tableau, Power BI, Superset or any standard data visualization tools.,
+Strong proficiency in writing production-quality code in SQL, shell and/or R/Python, engineering experience with machine learning projects like Time Series Forecasting,,
+Classification and Optimization problems would be a huge advantage,
+Experience administering and deploying CI/CD tools (e.g. Git, Jira, Jenkins),
+Industrialization (e.g. Ansible, Terraform), Workflow Management ( e.g. Airflow, Jenkins, Luigi) in Linux operating system environments.,
+Exhibits sound business judgment, a proven ability to influence others, strong analytical,
+skills, and a proven track record of taking ownership, leading data-driven analyses, and,
+influencing results.,
+Knowledge of cloud services like AWS, GCP, Azure would be a huge added advantage.,
+E-commerce / operations / fashion retail / warehouse and logistics background would be,
+a bonus.,
+The ZALORA Story,
+ZALORA is Asia’s leading online fashion, beauty and lifestyle destination, part of Global Fashion Group. As one of the region’s pioneer large-scale ecommerce platforms, ZALORA has established a strong presence throughout the region, particularly in Singapore, Indonesia, Malaysia, Brunei, the Philippines, Hong Kong, and in Taiwan, enjoying over 50 million visits per month.,
+ZALORA is not obligated to accept resumes from any third parties on behalf of potential candidates for any position (advertised or otherwise) by any means, unless ZALORA has executed a written agreement with such third party and has expressly requested such third party for candidate referrals. Third parties who provide unsolicited resumes of candidate(s) shall waive and forfeit all rights to claim for any placement fees or referral fees in the event that such candidate is eventually engaged or employed by ZALORA or Global Fashion Group.,
+,R4jJUohwM0","Data Engineer, Commercial & Operation Team",Indonesia
+30+ days ago,NTT Ltd,"In a constantly changing world, we work together with our people, clients and communities to enable them to fulfill their potential to do great things. We believe that by bringing everyone together, we can solve problems using innovative technology that can create a world that is sustainable and secure. At NTT, we encourage you to remain continuously curious, as that is what keeps you fast, flexible and relevant. No two days will be the same but that is what will help you grow and realize your full potential.,
+The power is in your hands to do great things. It’s time to lead the change, be the authentic you, to solve difficult challenges, to set the pace of change and to unleash your potential.,
+Want to be a part of our team?,
+(No Radford job or level selected),
+Working at NTT,
+What will make you a good fit for the role?,
+Join our growing global team and accelerate your career with us. Apply today.,
+Equal opportunity employer
+,NTT is proud to be an equal opportunity employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, color, sex, religion, national origin, disability, pregnancy, marital status, sexual orientation, gender reassignment, veteran status, or other protected category.",Senior Associate Data Engineer,Jakarta
+30+ days ago,BeritaSatu Media Holdings,"Responsibilities:
+,Create a database for data from a wide ranging of sectors, including but not limited to digital infrastructure, healthcare, education, socio-politics financial markets and economics, to be used for researcher and reporters across digital, television and print platforms in BeritaSatuMedia Holding.,
+,Collect and store data from various sources then process and manage it to keep them updated.,
+,Design and programming script to help information designer to automate data visualization process.,
+,Scrape data from various website.,
+,
+,Requirements :,
+,A bachelor’s degree in mathematics, statistics, computer science, or a business-related field is helpful—but not required.,
+,Demonstrate deep understanding of database architecture, queries, and how to build data pipelines.,
+,Proven data & programming skills. Either a 2+ year professional experience.,
+,Proficiency with Google Script, Xpath, Phyton, or R, MySQL.,
+,Understand visual communication design,
+,Keep up with current and upcoming data engineering trend,
+,Strong collaboration and communication skills,
+,Fluent in English,
+,Proficiency in spreadsheet (Excel or Google Sheets),
+,
+,Send your Current Photograph & CV,
+,Publisher: ,BeritaSatu Media Holdings,
+,Send us your application with comprehensive resume using format of .DOC or .PDF along with the latest photograph to recruitments@beritasatumedia.com",Data Engineer,Jakarta
+30+ days ago,QSI Recruitment,"27 July 21,
+,Location: Jakarta,
+,Requirements,
+,Bachelor degree majoring in Computer Science, Information Technology or equivalent,
+,Having seven year experiences in data, software engineering and data warehouse development,
+,Having skills in cloud data warehouse, data processing, cloud infrastructure, etc,
+,Having experience in Apache Airflow, Pandas, RDBMS, Debezium, and BigQuery, Redshift is a plus,
+,Having skills in Python, experience in Java and Go is a plus",Data Warehouse Engineer,Jakarta
+30+ days ago,QSI Recruitment,"22 October 18,
+,Location: Jakarta,
+,Requirements,
+,Minimum bachelor degree in Computer Science, Computer Engineering, or any related engineering field,
+,Minimum 3 years of working experiences a Data Engineer,
+,Familiar with Python, R, Scala, C, C++, Java, Golang,
+,Has an experienced in data processing, database technologies and big data developments,
+,Creative, proactive, good analytical thinking",Data Engineer,Jakarta
+30+ days ago,GO-JEK,"Location,
+,Jakarta,
+,Work Type,
+,Permanent,
+,Application Posted,
+,May 27, 2021,
+,About the Role,
+,
+,As our Senior Data Engineer, you’ll be an instrumental cog in the Finance IT Business Partner (ITBP) wheel of Gojek that directly supports the Finance, Accounting, and Tax (FAT) team in automating various processes and providing data required for finance reporting. You’ll focus a bulk of your time on developing and maintaining data automation for financial processes. The Data Warehouse, respective back-end and product, and ITBP finance support teams will be your companions on this ride. You’ll have ample opportunity to flex your SQL and Python programming skills, streamlining and automating various financial operations for the wider team to utilize.,
+,
+,What You Will Do,
+,Gather requirements from users, analyze these findings and provide recommendations for more enhanced solutions and data requirements,
+Identify, analyze, and interpret patterns in complex data sets to investigate issues, find root causes, and propose solutions,
+Develop automation to export/send data to users on a regular basis,
+Develop and implement databases, data collection systems, data analytics, dashboards, and other technical strategies to optimize reporting efficiency and quality,
+Support the FAT team by providing data they need,
+,What You Will Need,
+,At least 4 years of work experience as a BI Analyst or Data Analyst,
+Strong knowledge of DBMS (e.g. Postgre, MySQL, SQL Server, etc), programming (e.g. Python, Java, C#, Ruby, etc), and ETL frameworks (e.g. Airflow, Pentaho, Talend, etc),
+A Bachelor’s degree with a major in Computer Science, Informatics, Engineering, or Mathematics,
+Strong analytical skills with the ability to collect, organize, analyze, and present information with attention to detail and accuracy,
+Good communication skills in Bahasa and English, written and spoken, in order to collaborate with our local and international teams,
+Inquisitive, self-motivated, resourceful, dedicated, and capable to work under minimum supervision,
+Ability to work at a quick pace and willing to work extra hours if required (things come unexpectedly, so we’re always prepared!),
+Exposure working in finance and accounting processes is a plus,
+,About the Team,
+Our Finance ITBP is a team of 16 people based in Indonesia. Our roles range from carrying out project implementations to supporting users globally. We’re the team that oversees all internal enterprise systems that are maintained and implemented by the CIO’s team, and work together to govern, troubleshoot, and improve them. It’s our job to ensure that Gojek Enterprise applications run seamlessly. We're a highly dynamic team, so our emphasis on learning and working on new things (i.e. going the extra mile) is our key to success.,
+,
+One of the biggest obstacles our team has had to overcome was how to deliver technical support at a much quicker and accurate rate, especially with how quickly Gojek has been scaling. After many weeks of research, collaboration, and trial and error, we figured out that the best way to tackle this issue was to implement tried-and-tested methodologies such as Agile and SAP Activate to boost our solution delivery performance. Currently, we've been busy working on a project surrounding SAP Rollout and Integration, whose goal is to enable automation for seamless business flow.,
+,
+We are a tight-knit group that is bonded by two things: supporting Gojek's capability as a global company, and supporting each other as a family . For real - our weekly conversations range from the latest automation breakthroughs to sharing our favorite ways to stay healthy and happy as we get through this pandemic together. We don't mind working extra hours if need be (sometimes, things come unexpectedly) because we're encouraged by seeing our efforts come to fruition and benefit our users around the globe.",Senior Data Engineer (Finance),Jakarta
+30+ days ago,Alter Global,"About Shipper:,
+Shipper is a logistic aggregator platform, solving problems for merchants, customers, and third party logistics. We provide also first mail delivery services. We are a growing start-up. We work hard and fast. Responsibility with access to help from all team members is definitely there. We are looking for your awesomeness and your creativity. We trust the work to you and when you have problem, you can ask for help. When you don't know what you are doing, we will guide you on how things could possibly be done. Saying ""no"" to a logic could be a great thing when it's supported by facts. We support open policy and we are happy to talk about anything. We mean anything and we mean it.
+,
+,Responsibilities:,
+,
+,Design and develop regular reports and actionable dashboards to track business performance,
+,Responsible for advanced data analytics and statistical modeling to extract insights from data that results in better logistics services,
+,Use the quantitative skill sets to drive product roadmap and development,
+,Evaluate data management in Shipper Logistics organization,
+,Filter, clean and continuously manage data by reviewing data sources across different tools and systems,
+,Acquire data from primary or secondary data sources and maintain databases,
+,Own and manage multiple data initiatives and projects both on an ongoing and ad-hoc basis,
+,
+,Requirements:,
+,
+,Bachelor degree in Computer Science, Business Analytics or related quantitative fields (Mathematics, Economics, Computer Science, Information Management or Statistics).,
+,Ability to write complex SQL queries and preferably experience with MySQL, PostgreSQL, MongoDB and data visualization tools (Chartio, Tableau, etc).,
+,Proficiency in one or more programming languages including but not limited to Python, R,
+,Strong communication and presentation skills,
+,Experience with ETL process is a plus,
+,Experience with AWS ecosystem is a plus,
+,3-5 years of experience in an analytical role,
+,Detail oriented, analytical and inquisitive,
+,Language: Fluent in verbal and written in English & Indonesian,
+,
+",Data Engineer at Shipper,Jakarta
+30+ days ago,QSI Recruitment,"20 November 17,
+,Location: Jakarta,
+,Requirements,
+,Bachelor Degree majoring in IT / Computer Science / related,
+,Has 5 – 7 years of experience in data and API development,
+,Pipeline design and implementation with large distributed databases,
+,Experience in collecting, analyzing and synthesizing results from various data sources,
+,Excellent communication in English (Both verbal and written)",Data Engineer Manager,Jakarta
+30+ days ago,GO-JEK,"Location,
+,Jakarta,
+,Work Type,
+,Permanent,
+,Application Posted,
+,June 18, 2021,
+,About the Role,
+As our Data Engineer, you’ll be a crucial member of the Financial Services Platform at Gojek. In this role, you’ll take the wheel in building and scaling our Data Warehouse foundation that enables and delivers reliable and trustworthy data that affects our internal users, driver-partners, and merchant-partners alike. You’ll design, develop, and maintain the services for our data ingestion pipeline, ensuring the data is understandable, usable, and adheres to data governance policies. The folks in the Engineering, Business, Operations, and Data Science teams will be your companions on this ride; they’ll provide the data you’ll utilize in your daily tasks, while you act as a bridge between them and third parties.,
+,
+,What You Will Do,
+,Create data ingestion from various sources: RDBMS, Rest API, Kafka, Text File and Spreadsheet,
+Design, develop, and maintain the services for the data ingestion pipeline; debug any data issues that may arise,
+Deploy the data pipeline following data governance and data security requirements, and implement it with the data quality check on Google Cloud Platform,
+Provide expert advice on data infrastructure, data architecture, and data modelling to your teammates,
+Manage the auto-scaling and performance monitoring of the Infrastructure using Prometheus, Grafana, or similar tools,
+Liaise with other Data teams within the Financial Services platform and GoTo company - such as the Data Science, Data Engineering, Data Governance, and Risk Analytics teams - to ensure that initiatives are aligned and data integrity standards are adhered to,
+Drive the prioritization, strategy, and focus to solve user problems,
+,What You Will Need,
+,At least 3 years of experience in data engineering, BI engineering, and data warehouse development,
+Excellent command in programming languages, preferably in Python and Bash; knowledge of Java and Go is a plus,
+Experience in managing a server-less data warehouse like BigQuery or Redshift,
+Prior DevOps experience implementing large scale data stacks using any CI/CD tool and Docker,
+Familiarity with schedulers like Airflow,
+Experience in Kafka, Flink, and Spark is a plus,
+Excellent spoken and written skills in English in order to communicate with stakeholders of various backgrounds, and with our international teams,
+,About the Team,
+Financial services platform is Gojek’s financial services arm, working to provide responsible & sustainable financial services to Gojek's three main segments: consumers, merchant-partners, and driver-partners. Our team operates with the fundamental belief that financial inclusion can unlock the doors to a better quality life, both in the present as well as in the long term. With our ""user first"" mindset, we aim to transform the financial services sector in Southeast Asia, starting with Indonesia.,
+Our Data team, a financial data services sub-pod, is an established family with members stationed across Jakarta, India, and Singapore. We’re in charge of running hundreds of instances and deployments across all of our payment products, directly impacting millions of users every single day. Most recently, our team has built products that reduce the overall time to model, curate, and access data, streamlining our efficiency and internal processes significantly. In the coming year, in light of our new GoTo collaboration, we have exciting plans to scale up our team in efforts to field the massive growth of our data pool.,
+Combating remote work has brought us even closer, with frequent catch-ups over tea and sharing ways we have been keeping ourselves sane. Along with our desire to utilize smart technology and innovative engineering strategies to make people’s lives easier, our team also bonds over our shared love for reading, gaming, and drinking lots of coffee. We work hard and play hard, and believe it or not, we actually enjoy each other’s company!",Data Engineer - Financial Services Platform,Jakarta
+30+ days ago,GO-JEK,"Location,
+,Jakarta,
+,Work Type,
+,Permanent,
+,Application Posted,
+,March 2, 2021,
+,About the Role,
+At Gojek, engineering is central to everything we do: bringing our ideas to life and into the lives of our users. As our Data Warehouse Developer, you’ll be an instrumental cog in the Data Warehouse wheel of Gojek that directly impacts the company’s single source of truth of data. Your main objective will be to build out our data warehouse. Product Managers, BI Analytics and Product Engineers will be your companions during this ride. Best yet, you’ll have ample opportunity to flex your data/software engineering and communication skills, helping the team build a large, scalable data engineering platform that'll be utilized throughout the company.,
+,
+,What You Will Do,
+,Handle end-to-end data pipelines from heterogeneous input and output to help analytical purposes,
+Be a data architect by implementing Data Modelling concept based on data type and use case,
+Manage the Single Version of Truth and turn data into critical information and knowledge that can be used to make sound business decisions,
+Define clear and well-scoped requirements documents, including specs and workflows, that is easily understood by technical and non-technical audiences,
+Work with Product Managers, BI Analytics and Product Engineers to ship data warehouse feature and data product improvements,
+Contribute to the product strategy and execute on the prioritized roadmap for your team,
+,What You Will Need,
+,At least 4 years of experience in Data Environment as Data Warehouse Developer,
+Expert in SQL and Data Warehouse Concept,
+Advanced in at least one programming language, especially Python or Go or Java,
+Proficient in Batch, real-time data processing, Data Modelling concept, and implementation,
+Analytical and data-driven, you love digging into the data to understand what’s happening and define & measure success on every project,
+Passionate about your customers and always bring questions back to what will serve them best,
+,About the Team,
+The Merchant Platform team is a big group of over 50 team members based across Singapore and Indonesia. The gist of our role is to create an ecosystem of solutions to support our merchant-partners on the Gojek platform better manage and grow their business, while enabling both internal and external product stakeholders to develop merchant-based solutions in a sustainable manner.,
+Our merchant-partners are one of the core stakeholders in our Gojek ecosystem; they’re involved in various offerings such as food delivery, offline payment acceptance, POS, financial services, deals, and promotions. As the Merchant Platform team, we work closely with our merchant-partners to understand their daily needs and concerns, and relay these insights to our internal product stakeholders to build platforms and interfaces on our mobile apps that ensure our merchant-partners’ success on the Gojek platform. Should you have a question about how to run processes in the development of merchant-partner products, we are your people! Currently, our team has been specifically hard at work tackling issues within the engineering arena to enhance the experience our merchant-partners have utilizing our platform and services. We aim to establish Gojek as the most trusted partner for all our merchant-partners.,
+We’re a tight-knit, high-functioning team who genuinely love what we do, as we can see the results of our efforts play out in our merchant-partners’ everyday lives. When we aren’t working, you’d probably find us with our nose in books, or our eyes glued to the TV screen watching the latest Netflix drama. We’re equally concerned with each others’ personal and professional developments, and work together to get our job done well.",Data Warehouse Engineer - Merchant Platform,Jakarta
+11 days ago,Michael Page,"Join a top trending and booming industry,
+,Build high impact in digitalizing local community,
+,About Our Client,
+,One of the fastest growing Indonesian agritech startup, series B, with B2B and B2C platforms. They are committed to empower local fresh produce communities with their technology ecosystems and supply chain management.,
+,
+,Job Description,
+,Design large data warehouses, high performing data pipelines, and developing ETL tools,
+,Build and maintain streaming/batching processing with data infrastructure systems such as Kafka, Flink or equivalent,
+,Develop automation, explore new tools/benchmarking for best practices and work with billions rows of data,
+,Work with cross functional teams and multiple stakeholders from technical to business units,
+,Understanding of software design principles and best practices (test driven development, source control management etc.),
+,The Successful Applicant,
+,Minimum of 3+ years of professional experience in the field. Graduate from reputable university is preferred,
+,Savvy in data processing with Python, Java or Scala, and deep understanding of SQL,
+,Familiar with cloud based infrastructure (GCP preferred) and analytical data warehouse (BigQuery preferred),
+,Experience in data pipeline tools i.e. Airflow, Luigi, Azkaban or equivalent,
+,Excellent written and verbal communication, able to switch between technical and plain language when discussing work,
+,Able to work in teams, understand and empathise with all major stakeholders, take the lead on initiatives and mentor junior engineers,
+,Able to work in a fast-paced agile environment,
+,What's on Offer,
+,Join a top trending and booming industry,
+,Build high impact in digitalizing local community,
+,Competitive benefits and flexibility,
+,Contact,
+,Josephine Wiliputri,
+,Quote job ref,
+,4218735,
+,Phone number,
+,+62 21 2958 8871",Senior Data Engineer - Agritech,Jakarta
+30+ days ago,Shopee,"Responsible for feature deployment, integration, and local server architecture and maintenance
+,
+Create and maintain optimal product feature architecture.
+,
+Liaise with data platform engineers and SRE team on feature development, infrastructure management, performance assessment and monitoring.
+,
+Work with stakeholders including the BI Analyst and BI Engineer to assist with data-related technical issues and support their data infrastructure needs.
+,Bachelor degree in Computer Science/ Information Systems or any related field.
+,
+Proficient in SQL, Python.
+,
+Sufficient knowledge in IT Operations.
+,
+Sufficient experience in using containerization tool (docker).
+,
+Sufficient in using open-source automation tools (Git, Jenkins).
+,
+Sufficient knowledge in Linux and bash scripting language (especially Ubuntu/Debian distribution.
+,
+Have sound knowledge of data management.
+,
+Have experience related to data architecture or software development.
+,
+Have any exposure in using big data related tools (freelance / solid private projects will be considered).
+,
+Ability to work in a fast-paced agile development environment.",Data Platform DevOps Engineer,Jakarta
+30+ days ago,Michael Page,"Collaborative work with regional teams,
+,South East Asia market exposure,
+,About Our Client,
+,A leadingfintech player in South East Asia, providing various solutions and products that are tailored to market demand within financial services scope.,
+,
+,Job Description,
+,Design and develop scalable Datawarehouse systems, including setting up process for data flows automation from various sources,
+,Build and maintain ETL pipeline, and executing advanced SQL queries for data requests,
+,Work collaboratively with regional Tech team for development and new features releases,
+,Sense of ownership and independence in handling data engineering and BI development that drives business decisions and product development,
+,Prepare Machine Learning capabilities,
+,The Successful Applicant,
+,Experienced with a diverse set of data technologies i.e. Kafka, SQL databases, Metabase or equivalent others,
+,Solid exerience in database designing and pipeline building,
+,Excellent written and verbal communication, able to switch between technical and plain language when discussing work,
+,Analytical, innovative and entrepreneurial thinker
+,What's on Offer,
+,Opportunity to make impact for over 11 million unique users across South East Asia,
+,Ownership & autonomy of your services (from emerging ones to large scale opportunities),
+,Asynchronous work environment to help you maintain a flexible work-life balance,
+,
+,
+,Contact,
+,Josephine Wiliputri,
+,Quote job ref,
+,4209036,
+,Phone number,
+,+62 21 2958 8871",Data Engineer - SEA Fintech,Jakarta
+6 days ago,Michael Page,"Work with multinational team, open to remote,
+,Join one of the most successful ecommerce,
+,About Our Client,
+,One of the largest fashion ecommerce in Asia.,
+,
+,Job Description,
+,Building robust scalable data pipelines using distributed processing frameworks (e.g. Spark, Hadoop, EMR, Flink, Storm), integrated with asynchronous messaging systems (e.g. Apache Kafka, Kinesis, PubSub, MQ Series).,
+,Apply strong programming, algorithmic, data processing skills with significant experience in producing production-ready code in Python/Scala/Java etc, engineering experience with machine learning projects like Time Series Forecasting, Classification and Optimization problems.,
+,Work collaboratively with teams to handle Relational Database Management Systems (RDBMS) (e.g. PostgreSQL, MySQL) , No-SQL Databases (e.g. MongoDB, ElasticSearch) and hands-on experience in implementation and performance tuning of MPP databases (e.g. Redshift, BigQuery).,
+,The Successful Applicant,
+,5+ years of experience in building out scalable and reliable ETL/ELT pipelines and processes to ingest data from a variety of data sources, preferably in the ecommerce retail industry.,
+,Experience in processing frameworks (i.e. Spark, Hadoop, Flink, Storm), integrated with asynchronous messaging systems (i.e. Apache Kafka, Kinesis, PubSub, MQ Series),
+,Experience administering and deploying CI/CD tools (e.g. Git, Jira, Jenkins) Industrialization (e.g. Ansible, Terraform), Workflow Management ( e.g. Airflow, Jenkins, Luigi) in Linux operating system environments.,
+,Experience designing and implementing software for Data Security, Cryptography, Data Loss Prevention (DLP), or other security tools.,
+,Exhibits sound business judgment, a proven ability to influence others, strong analytical skills, and a proven track record of taking ownership, leading data-driven analyses, and influencing results.,
+,Experience with cloud services like AWS, GCP or Azure,
+,E-commerce / logistics / fashion retail background a bonus,
+,What's on Offer,
+,Work with multinational team,
+Join one of the most successful ecommerce,
+Flexible hours and competitive benefit,
+,
+,Contact,
+,Josephine Wiliputri,
+,Quote job ref,
+,4219467,
+,Phone number,
+,+62 21 2958 8871",Big Data Engineer (Principal) - Ecommerce Asia,Jakarta
+30+ days ago,PT. INNOVATION CLOUD SERVICES,"Job Responsibilities:,
+,
+,Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+,Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+,Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+,Strong analytic skills related to working with unstructured datasets.
+,Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+,A successful history of manipulating, processing and extracting value from large disconnected datasets.
+,Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+,Strong project management and organizational skills.
+,Experience supporting and working with cross-functional teams in a dynamic environment.,
+,
+,Requirements:,
+,
+,Bachelor Degree in (MI/TI/TK)
+,Experience with big data tools: Hadoop, Spark, Kafka, etc.
+,Experience with relational SQL and NoSQL databases, including Postgres and Cassandra.
+,Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc.
+,Experience with AWS cloud services / GCP : EC2, EMR, RDS, Redshift, Compute Enginee, Cloud SQL, Big Query, etc
+,Experience with stream-processing systems: Storm, Spark-Streaming, etc.
+,Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.",Cloud Data Engineer,Indonesia
+30 days ago,Michael Page,"Multinational Telecommunications Company,
+,Career advancement
+,About Our Client,
+,Our client is a Multinational Telecommunications Company.,
+,
+,Job Description,
+,As the interface for high level decision makers (C-levels, VPs), responsible for high level customer presentation and communication.,
+,Managing the team to provide business proposal for telecom operator's network planning and solution in order to obtain more business opportunities.,
+,Responsible for the information gathering and analysis of relevant solutions, customers in relevant markets and industries, and competitors.,
+,Communicates and coordinates with project team members, integrates internal resources, and promotes project progress.,
+,The Successful Applicant,
+,10 Years+ experience in the telecommunications industry.,
+,Have extensive knowledge and deep insight about 2G/3G/4G/5G radio network planning and solution.,
+,Proficient and very good skill in presentation, ability to communicate with customers' key decision makers (C-levels),
+,Excellent English communication skills both in writing and speaking.,
+,Outgoing personality, good at communication and teamwork,
+,Candidate must possess at least a Bachelor's Degree, Engineering (Computer/Telecommunication) or equivalent.,
+,
+,What's on Offer,
+,Opportunity to work with one of the big multinational telecommunications companies with attractive salary and company benefit offering.,
+,
+,Contact,
+,Jessica Yonaka,
+,Quote job ref,
+,4216145,
+,Phone number,
+,+62 21 2958 8821","Solutions Architect, Telecommunications, IT Engineer, Data Engineer, IT Consultant, Network Planning",Jakarta
+27 days ago,PointStar Pte Ltd,"Let’s get to know you!,
+,
+1.Have minimum 2 years experience in the Data Science, Data Analytics, Business Analytics, or related field working with Data.,
+,2.We are an advocate of training each other, if you’re a fresh graduate from Engineering (Computer/Telecommunication), Computer Science/Information Technology, Statistics major or looking for a career change; feel free to apply with us. Diversity is a key value to us.
+,3.Strong experience in Python or Java or Scala, beam, hadoop, NodeJS, Javascript and Big Data platforms such as Cloudera or GCP.,
+,4.Willing to be located in Bandung.",DATA ENGINEER,Indonesia
+30+ days ago,Shopee,"Being responsible for the full life cycle development, implementation, support of self-serve data products.
+,
+Creating and maintaining optimal data pipeline architecture.
+,
+Liaising with the regional Data Engineering team on data availability and retrieval.
+,
+Building analytics tools that utilize the data pipeline to provide actionable insights into operational efficiency and other key business performance metrics.
+,
+Working with stakeholders including the BI Analysts, Marketing, Business Development, FinTech, Brand, and Operational teams to assist with data-related technical issues and support their data infrastructure needs.
+,
+Working with BI Analysts to strive for greater functionality in our data systems.
+,Bachelor's Degree in Computer Science/ Information Systems or any related field.
+,
+2+ years of relevant working experience in Data Engineering, BI Engineering, or DevSecOps.
+,
+Proficient in SQL and Python.
+,
+Have sound knowledge of data modelling and data warehousing concepts.
+,
+Have a strong exposure in using big data related tools (freelance / solid private projects will be considered).
+,
+Basic knowledge in Linux command (especially Ubuntu/Debian distribution).
+,
+Ability to work in a fast-paced agile development environment.",Data Platform Engineer,Jakarta
+30+ days ago,GO-JEK,"Location,
+,Jakarta,
+,Work Type,
+,Permanent,
+,Application Posted,
+,June 18, 2021,
+,About the Role,
+As our Data Engineer, you’ll be a crucial member of the Financial Services Platform at Gojek. In this role, you’ll take the wheel in building and scaling our Data Warehouse foundation that enables and delivers reliable and trustworthy data that affects our internal users, driver-partners, and merchant-partners alike. You’ll design, develop, and maintain the services for our data ingestion pipeline, ensuring the data is understandable, usable, and adheres to data governance policies. The folks in the Engineering, Business, Operations, and Data Science teams will be your companions on this ride; they’ll provide the data you’ll utilize in your daily tasks, while you act as a bridge between them and third parties.,
+,
+,What You Will Do,
+,Create data ingestion from various sources: RDBMS, Rest API, Kafka, Text File and Spreadsheet,
+Design, develop, and maintain the services for the data ingestion pipeline; debug any data issues that may arise,
+Deploy the data pipeline following data governance and data security requirements, and implement it with the data quality check on Google Cloud Platform,
+Provide expert advice on data infrastructure, data architecture, and data modelling to your teammates,
+Manage the auto-scaling and performance monitoring of the Infrastructure using Prometheus, Grafana, or similar tools,
+Liaise with other Data teams within the Financial Services platform and GoTo company - such as the Data Science, Data Engineering, Data Governance, and Risk Analytics teams - to ensure that initiatives are aligned and data integrity standards are adhered to,
+Drive the prioritization, strategy, and focus to solve user problems,
+,What You Will Need,
+,At least 3 years of experience in data engineering, BI engineering, and data warehouse development,
+Excellent command in programming languages, preferably in Python and Bash; knowledge of Java and Go is a plus,
+Experience in managing a server-less data warehouse like BigQuery or Redshift,
+Prior DevOps experience implementing large scale data stacks using any CI/CD tool and Docker,
+Familiarity with schedulers like Airflow,
+Experience in Kafka, Flink, and Spark is a plus,
+Excellent spoken and written skills in English in order to communicate with stakeholders of various backgrounds, and with our international teams,
+,About the Team,
+Financial services platform is Gojek’s financial services arm, working to provide responsible & sustainable financial services to Gojek's three main segments: consumers, merchant-partners, and driver-partners. Our team operates with the fundamental belief that financial inclusion can unlock the doors to a better quality life, both in the present as well as in the long term. With our ""user first"" mindset, we aim to transform the financial services sector in Southeast Asia, starting with Indonesia.,
+Our Data team, a financial data services sub-pod, is an established family with members stationed across Jakarta, India, and Singapore. We’re in charge of running hundreds of instances and deployments across all of our payment products, directly impacting millions of users every single day. Most recently, our team has built products that reduce the overall time to model, curate, and access data, streamlining our efficiency and internal processes significantly. In the coming year, in light of our new GoTo collaboration, we have exciting plans to scale up our team in efforts to field the massive growth of our data pool.,
+Combating remote work has brought us even closer, with frequent catch-ups over tea and sharing ways we have been keeping ourselves sane. Along with our desire to utilize smart technology and innovative engineering strategies to make people’s lives easier, our team also bonds over our shared love for reading, gaming, and drinking lots of coffee. We work hard and play hard, and believe it or not, we actually enjoy each other’s company!",Data Engineer (Analytics)- Financial Services Platform,Jakarta
+30+ days ago,Nomura Research Institute Indonesia,"Perform data exploration, data cleaning, data imputation, and feature engineering on unstructured and structured data.
+,
+Build the infrastructure for optimal extraction, transformation, and loading (ETL) of data from a wide variety of data sources.
+,
+Develop and maintain optimal data pipeline architecture for training statistical and machine learning models such as regression and classification.
+,
+Develop and maintain evaluations to measure the effectiveness of training data. This includes measuring the capabilities of models on a variety of tasks and domains.
+,
+Collaborate with data scientists and machine learning engineers to develop a comprehensive data science/machine learning solution pipeline.
+,
+,What you need to have (Minimum Qualifications):,
+Bachelor's degree from computer science or related fields, or equivalent software engineering experience.
+,
+Proficiency in Python programming language
+,
+Experience in dataset processing and feature engineering using tools such as Numpy, Pandas, and Scikit-Learn
+,
+Visualization skills using tools such as Matplotlib, Seaborn, and Bokeh
+,
+Understanding of deep learning frameworks such as Pytorch and TensorFlow
+,
+Understanding of SQL and NoSQL
+,
+Understands Hadoop / Spark / Kafka / Hive / Presto
+,
+Proficiency in source control i.e. Git
+,
+,Preferred:,
+What would make you stand out from the crowd (Preferred Qualifications):
+,
+Deep understanding of Object-Oriented Programming (OOP) concepts such as inheritance, delegation, and abstract class
+,
+Understanding of cloud-native technologies such as AWS, GCP, and Azure
+,
+Experience in using Docker
+,
+Experience in using AWS services such as S3, EC2, Glue, Sagemaker
+,
+Experience in AWS Step Function and/or AWS Lambda is even better
+,
+Proficiency in Scala and Java programming languages
+,
+Enjoy iterating quickly with research prototypes and learning new technologies",Data Engineer,Jakarta
+30+ days ago,GO-JEK,"Location,
+,Jakarta,
+,Work Type,
+,Permanent,
+,Application Posted,
+,July 20, 2021,
+,About the Role,
+,
+,As our Data Engineer, you’ll be an instrumental cog in the Finance IT Business Partner (ITBP) wheel of Gojek that directly supports the Finance, Accounting, and Tax (FAT) team in automating various processes and providing data required for financial reporting. You’ll focus the bulk of your time on developing and maintaining data automation for financial processes. The Data Warehouse, respective back-end and product, and ITBP finance support teams will be your companions on this ride. You’ll have ample opportunity to flex your SQL and Python programming skills, streamlining and automating various financial operations for the wider team to utilize.,
+,
+,What You Will Do,
+,Gather requirements from users, analyze these findings and provide recommendations for more enhanced solutions and data requirements,
+Identify, analyze, and interpret patterns in complex data sets to investigate issues, find root causes, and propose solutions,
+Develop automation to export/send data to users on a regular basis,
+Develop and implement databases, data collection systems, data analytics, dashboards, and other technical strategies to optimize reporting efficiency and quality,
+Support the FAT team by providing data they need,
+,What You Will Need,
+,At least 2 years of work experience as a BI Analyst or Data Analyst,
+Strong knowledge of DBMS (e.g. Postgre, MySQL, SQL Server, etc), programming (e.g. Python, Java, C#, Ruby, etc), and ETL frameworks (e.g. Airflow, Pentaho, Talend, etc),
+A Bachelor’s degree with a major in Computer Science, Informatics, Engineering, or Mathematics,
+Strong analytical skills with the ability to collect, organize, analyze, and present information with attention to detail and accuracy,
+Good communication skills in Bahasa and English, written and spoken, in order to collaborate with our local and international teams,
+Inquisitive, self-motivated, resourceful, dedicated, and capable to work under minimum supervision,
+Ability to work at a quick pace and willing to work extra hours if required (things come unexpectedly, so we’re always prepared!),
+Exposure working in finance and accounting processes is a plus,
+,About the Team,
+Our Finance ITBP is a team of 16 people based in Indonesia. Our roles range from carrying out project implementations to supporting users globally. We’re the team that oversees all internal enterprise systems that are maintained and implemented by the CIO’s team, and work together to govern, troubleshoot, and improve them. It’s our job to ensure that Gojek Enterprise applications run seamlessly. We're a highly dynamic team, so our emphasis on learning and working on new things (i.e. going the extra mile) is our key to success.,
+,
+One of the biggest obstacles our team has had to overcome was how to deliver technical support at a much quicker and accurate rate, especially with how quickly Gojek has been scaling. After many weeks of research, collaboration, and trial and error, we figured out that the best way to tackle this issue was to implement tried-and-tested methodologies such as Agile and SAP Activate to boost our solution delivery performance. Currently, we've been busy working on a project surrounding SAP Rollout and Integration, whose goal is to enable automation for seamless business flow.,
+,
+We are a tight-knit group that is bonded by two things: supporting Gojek's capability as a global company, and supporting each other as a family . For real - our weekly conversations range from the latest automation breakthroughs to sharing our favorite ways to stay healthy and happy as we get through this pandemic together. We don't mind working extra hours if need be (sometimes, things come unexpectedly) because we're encouraged by seeing our efforts come to fruition and benefit our users around the globe.",Data Engineer (Finance),Jakarta
+30+ days ago,GO-JEK,"Location,
+,Jakarta,
+,Work Type,
+,Permanent,
+,Application Posted,
+,March 1, 2021,
+,About the Role,
+At Gojek, engineering is central to everything we do: bringing our ideas to life and into the lives of our users. As our Data Warehouse Upstream Developer, you’ll be an instrumental cog in GoPay’s Data & BI wheel at Gojek that impacts the company’s analytical data infrastructure. You’ll take the reins in designing, developing, setting up, and managing our data infrastructure - one that needs to operate reliably at scale using a high degree of automation.,
+,
+,You’ll also play an active role in ensuring the data governance policies and tools are implemented and adhered to. Product managers, engineers, BI/analytics, and data scientists will be your companions during this ride. Best yet, you’ll have ample opportunity to flex your data/software engineering and communication skills, helping the team build a large, scalable data engineering platform that'll be utilize company-wide.,
+,
+,What You Will Do,
+,Understand business concepts and goals, and use them effectively to scope data projects,
+Design, maintain, and govern scalable and reliable services for data consumption from various sources,
+Handle and include data extraction process into the data lake in the data warehouse,
+Diagnose and solve data issues in our data pipelines; look for the root cause of problems and envision a long term solution for these issues,
+Work closely with the data stakeholders (Data Warehouse Downstream, Analyst, Growth etc.) to come up with a working data solution and accommodate their data needs,
+Consult with product team and data engineers to ensure the developed solutions match business needs,
+Contribute to the product strategy and execute the prioritized roadmap for your team,
+,What You Will Need,
+,At least 7 years of experience in data engineering, software engineering, or data warehouse development,
+A passion for writing code to solve any data problems, preferably in Python; experience in Java and Go is a plus,
+Meticulous ability to read others’ complex code and documentation,
+Expert proficiency in SQL in any platforms,
+Experience in cloud data warehouses (BigQuery, Redshift) is a plus,
+Basic knowledge in real-time data processing; experience in Apache Kafka, Apache Flink is a plus,
+Basic knowledge of containerization (Docker, Kubernetes) and CI/CD (Gitlab CI),
+Experience in wide-range of ETL systems (Apache Airflow, Pandas, RDBMS, Debezium, etc),
+Experience in cloud infrastructure (e.g. GCP, AWS),
+,About the Team,
+Our Data & BI team consists of Data Warehouse Developers (Upstream & Downstream), Data Governance Analysts, and Data Science Engineers spread out across Indonesia. Working alongside the analytics, product, and engineering teams, we are predominantly concerned with providing data tools to fulfill various business needs, including the standardized data warehouse pipeline and data democratization project. For instance, should you have a question about how the data you’ve collected can be best utilized in achieving your team’s goal, we are your people! Currently, our team has been busy working on implementing the group-wide data warehouse model, which will help Gojek in synchronizing the data-services standard across the company.,
+As these are strange and unprecedented times we’re living in, our team has been prioritizing a healthy work-life balance more than ever before. We are a tight-knit group made up of culinarians, Netflix enthusiasts, and avid bookworms. We work hard and play hard, and believe it or not, we actually enjoy each other’s company!",Data Warehouse Engineer - GoPay,Jakarta
+30+ days ago,PT Amazon Data Srvcs Indonesia,"
+,2+ years of IT infrastructure operations experience,
+,Computer/Server Hardware Troubleshooting experience,
+,Basic understanding of Network operation / support experience,
+,Written & verbal communication skills,
+,Ability to lift & install equipment up to 20kg; it may require working in narrow spaces or in elevated locations while adhering to health & safety guidelines,
+,This role involves covering 24x7 shift rotation,
+,
+Do you have a passion to install, deploy, service and maintain mission critical IT infrastructure in one of the world’s largest and fastest-growing cloud data centers?
+,
+Are you looking to expand your horizon in an exciting and dynamic work environment that encourages creativity and boundless opportunities for career development?
+,
+Do you enjoy solving problems and delivering value-adding results?
+,
+If you answered yes to any of these questions, then Amazon Web Services Data Center is the place to be!
+,
+In this role as a Data Center Operations Engineer (DCO Engineer), you will be responsible for the on-site management of hardware lifecycle of our Indonesia IT infrastructure.
+,
+You will troubleshoot technical issues on advanced hardware, ranging from servers, storage and networking devices on a 24/7 basis.
+,
+Working with key technical subject matter experts, you will have the opportunity to participate in the design, implementation and commissioning of our advanced IT infrastructure.
+,
+Drive & implement projects to enhance operational efficiencies with opportunities to share experiences and knowledge with our global network of technical experts.
+,
+,
+,LINUX Operating System, Hardware or Networking certifications.,
+,Knowledge in virtual/cloud computing environments.,
+,Understanding of IT service management,
+,Understanding of Data Center environment safety and security.,
+,
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer, and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status.",IT Data Center Engineer,Jakarta
+30+ days ago,Alodokter,"This role exists to:,
+Implement & maintain methods to improve data reliability and quality by combine raw information from different sources to create consistent and machine-readable formats for the usage of Data Analysts, Data Scientists & other internal or external teams within a cloud-based data ecosystem.
+,
+,Core Responsibilities:,
+Design, build and maintain highly scalable pipeline (end-to-end) for large volumes of complex data processing and analysis within a cloud-based ecosystem.
+,
+Build and develop large data warehouses, high performance data processing pipelines, and ETL tools.
+,
+Maintain standard data definition and dictionary to ensure data quality, consistency and robustness in tracking and reporting processes.
+,
+Ensure high data integrity and quality from various data sources that are aligned to industry best practices.
+,
+Clearly articulate pros and cons of different technologies, solutions and platforms based on different use cases.
+,
+Document use cases, solutions and recommendations.
+,
+,Knowledge:,
+,Essential:,
+Solid experience and knowledge on Google Cloud Platform (or any of the major cloud solution providers such as AWS, Azure, AliCloud) for data management: Composer, Pubsub, Google Storage, Dataflow, Big Query and Data Fusion, or equivalent
+,
+Proven knowledge & delivery working with structured & unstructured data with Airflow, or a diverse set of data technologies: Redshift, Elastic Search, PostgreSQL, Kubernetes
+,
+High fluency in Python, SQL or equivalent
+,
+Knowledge of version control tools such as Bitbucket, GitHub & GitLab.
+,
+,Desired:,
+,Ability to work with stream-processing systems:, Storm, Spark-streaming, etc
+,
+,Experience with big data tools:, Hadoop, Spark, Kafka, etc
+,
+,Skills/Abilities:,
+,Essential:,
+Hands on experience in
+,
+Designing and implementing process improvements, build automated processes, optimize data delivery and re-designing infrastructure for larger scalability
+,
+Building processes supporting data transformation, data structures, metadata, dependency and workload management.
+,
+Supporting and working with cross-functional teams in a dynamic environment.
+,
+,Desired:,
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+,
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.",Sr. Data Engineer,Jakarta
+30+ days ago,GO-JEK,"About the Role,
+As our Data Engineer, you’ll be a crucial member of the Financial Services Platform at Gojek. In this role, you’ll take the wheel in building and scaling our Data Warehouse foundation that enables and delivers reliable and trustworthy data that affects our internal users, driver-partners, and merchant-partners alike. You’ll design, develop, and maintain the services for our data ingestion pipeline, ensuring the data is understandable, usable, and adheres to data governance policies. The folks in the Engineering, Business, Operations, and Data Science teams will be your companions on this ride; they’ll provide the data you’ll utilize in your daily tasks, while you act as a bridge between them and third parties.,
+What You Will Do,
+Create data ingestion from various sources: RDBMS, Rest API, Kafka, Text File and Spreadsheet,
+Design, develop, and maintain the services for the data ingestion pipeline; debug any data issues that may arise,
+Deploy the data pipeline following data governance and data security requirements, and implement it with the data quality check on Google Cloud Platform,
+Provide expert advice on data infrastructure, data architecture, and data modelling to your teammates,
+Manage the auto-scaling and performance monitoring of the Infrastructure using Prometheus, Grafana, or similar tools,
+Liaise with other Data teams within the Financial Services platform and GoTo company - such as the Data Science, Data Engineering, Data Governance, and Risk Analytics teams - to ensure that initiatives are aligned and data integrity standards are adhered to,
+Drive the prioritization, strategy, and focus to solve user problems,
+,What You Will Need,
+At least 3 years of experience in data engineering, BI engineering, and data warehouse development,
+Excellent command in programming languages, preferably in Python and Bash; knowledge of Java and Go is a plus,
+Experience in managing a server-less data warehouse like BigQuery or Redshift,
+Prior DevOps experience implementing large scale data stacks using any CI/CD tool and Docker,
+Familiarity with schedulers like Airflow,
+Experience in Kafka, Flink, and Spark is a plus,
+Excellent spoken and written skills in English in order to communicate with stakeholders of various backgrounds, and with our international teams,
+,About the Team,
+Financial services platform is Gojek’s financial services arm, working to provide responsible & sustainable financial services to Gojek's three main segments: consumers, merchant-partners, and driver-partners. Our team operates with the fundamental belief that financial inclusion can unlock the doors to a better quality life, both in the present as well as in the long term. With our ""user first"" mindset, we aim to transform the financial services sector in Southeast Asia, starting with Indonesia.,
+Our Data team, a financial data services sub-pod, is an established family with members stationed across Jakarta, India, and Singapore. We’re in charge of running hundreds of instances and deployments across all of our payment products, directly impacting millions of users every single day. Most recently, our team has built products that reduce the overall time to model, curate, and access data, streamlining our efficiency and internal processes significantly. In the coming year, in light of our new GoTo collaboration, we have exciting plans to scale up our team in efforts to field the massive growth of our data pool.,
+Combating remote work has brought us even closer, with frequent catch-ups over tea and sharing ways we have been keeping ourselves sane. Along with our desire to utilize smart technology and innovative engineering strategies to make people’s lives easier, our team also bonds over our shared love for reading, gaming, and drinking lots of coffee. We work hard and play hard, and believe it or not, we actually enjoy each other’s company!,
+About Us,
+Gojek is a Super App. It’s one app for ordering food, commuting, digital payments, shopping, hyper-local delivery, and dozen other products. It is Indonesia’s first and only decacorn. It's also the only Southeast Asian startup to be part of Fortune's list of 'Companies That Changed The World.',
+Our Mission:, To create and scale positive socio-economic impact for our customers, driver-partners, business and MSMEs.,
+As of 2018, Gojek processed more than $9 billion annualised gross transaction value across all markets where it operates - in Singapore, Thailand, Vietnam and Indonesia. We have the largest food delivery product in Asia, (outside of China), and the largest payments wallet in Southeast Asia.,
+Our investors include Google, Facebook, PayPal, Sequoia Capital, Tencent Holdings among others.,
+Gojek is committed to building a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, religion, national origin, gender, gender identity, sexual orientation, disability, age, education status, or any other legally protected status.",Data Engineer (Analytics)- Financial Services Platform,Jakarta
+30+ days ago,Sayurbox,"Position Job Scope including, but not limited to:,
+Design, build, and maintain streaming data infrastructure systems such as Kafka, Flink and other streaming platforms,
+Design alerting and testing systems to ensure the accuracy and timeliness of these pipelines. (e.g., improve instrumentation, optimize logging, etc),
+Deep dive into streaming processing and contribute to building a next-generation reliable cloud data warehouse that supports both streaming and batch.,
+Work within a cross-functional product team, collaborating with multiple stakeholders and engineers from all corners (front end, backend, systems, and more!) to rapidly develop scalable data pipelines from start to finish,
+Develop multiple automation and instrumentation tools to automate your work,
+Work with billions of rows data,
+Make sure the end user of the data can query the data seamlessly for their use,
+Explore/learn new technologies that can complement or replace our current stack to improve it,
+Job Qualification Requirements:,
+3+ years hands-on experience deploying production quality code.,
+Professional experience using Python, Java, or Scala for data processing (Python preferred),
+Knowledge of and experience with data-related Python packages,
+Experience in Cloud Infrastructure (GCP preferred),
+Demonstrably deep understanding of SQL and analytical data warehouses (BigQuery preferred),
+Hands-on experience implementing ETL (or ELT) best practices at scale.,
+Hands-on experience with data pipeline tools (Airflow, Luigi, Azkaban, dbt),
+Passionately in love with programming,
+Excellent team player, strong in leadership skills.,
+Have passion, interest, and willingness to learn and share,
+Relevant experience would make you stand out,
+,S2gsDEjTdF",Senior Data Engineer,Jakarta
+30+ days ago,GO-JEK,"Location,
+,Jakarta,
+,Work Type,
+,Permanent,
+,Application Posted,
+,June 15, 2021,
+,About the Role,
+,
+,As our Data Warehouse Engineer, you’ll be an instrumental player in Gojek’s Data team that drives the company’s analytical data infrastructure. You’ll take the wheel in designing, developing, and managing our data warehouse and data infrastructure that supports it, ensuring these systems operate reliably at scale through a high degree of automation. You’ll also oversee the single source of truth of data for analytics, partnering with product managers, product engineers, data engineers, BI/analytics, and data scientists during this ride. You’ll play an active role in ensuring data governance policies and tools are implemented and adhered to, and assist the team in utilizing data to deliver beautifully simple and scalable solutions to meet user needs.,
+,
+,What You Will Do,
+,Handle end-to-end data pipelines from heterogeneous input and output for analytical purposes,
+Become a data architect by implementing appropriate data modelling concepts depending on data types and use cases,
+Manage a single version of truth, turning data into critical information and knowledge that can be used to make sound business decisions,
+Define clear and well-scoped requirement documents including specs and workflows that are easily understood by technical and non-technical audiences,
+Work with Product Managers, Analysts and Product Engineers to ship data warehouse features and data product improvements,
+Contribute to the product strategy and execute on the prioritized roadmap for your team,
+,What You Will Need,
+,At least 4 years of experience in data environment as Data Warehouse Developer,
+Expertise in SQL and data warehouse concepts,
+Strong knowledge of at least one programming language, preferably Python, Go, or Java,
+Proficiency in batch, real-time data processing, data modelling concepts, and implementation,
+An analytical and data-driven mindset; a love for digging into data to understand what’s happening and to define & measure success on every project,
+A constant drive to put our customers first, bringing questions back to what will serve them best,
+,About the Team,
+Our Data Warehouse team is one of the key platforms that gathers, analyzes, and disseminates the data used by various teams, business users, and analysts to make sound business decisions. As a family of 11 spread out across Jakarta and Thailand, we rely on data integration, modeling, and architectures to manage our data pipelines, and work with Product Managers, BI Analyst, and Product Engineers to gather any new data points or capture data changes. It’s our job to ensure our data pipelines are operating as efficiently and accurately as possible.,
+With the Gojek enterprise’s immense growth, both organically and through acquisitions, our Data Warehouse needs to withstand quick evolutions and adapt to our ever-evolving requirements surrounding data governance and data security in all our respective countries and industries. These challenges prompt us to maintain constant vigilance, ensuring all our solutions are scalable and adaptable. Currently, our team has been working on a critical project surrounding the governance, security, and reliability of our cloud data warehouse platform.,
+Our team works hard but plays hard, too. We mean the latter in a literal sense, because we're a team full of musicians! We have 2 pianists, 1 guitarist, 1 drummer, more than 2 male singers, 1 female singer, 1 Rockstar, and 1 dangdut singer (yes, you read it right ). So, you best believe that we have several karaoke nights together! Even if you aren't musically inclined, no fear. We love bonding over card games (Werewolf is a team favorite), and even hosting mini talent shows for our own entertainment. Join us and show your hidden skills!",Data Warehouse Engineer,Jakarta
+30+ days ago,Zenius Education,"We are looking for a Senior Data Engineer who will primarily be responsible to build and maintain our data warehousing system.
+,
+Technical responsibility for data and data pipelines to ensure compliance with data standards, architectural standards, and achievement of documented requirements.
+,
+Develop and maintain current state documentation and deliverables for data solutions.
+,
+Maintain existing and new data solutions to ensure that they continue to meet user needs.
+,
+Create data tools for data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+,
+Work with data and analytics experts to strive for greater functionality in our data systems.
+,
+Collaborate with the Product, Engineering, and Data team to facilitate access to data.
+,
+Design, improve and manage the data warehouse and data structure in Zenius
+,Bachelor Degree in Computer Science, IT, Mathematics, or related field.
+,
+Minimum 2-3 years experience as Data Engineer, Data Warehouse, Business Intelligence.
+,
+Expert proficiency in Python, C++, Java, R, and SQL.
+,
+Advanced knowledge and experience working with complex ETL, unstructured datasets, and data warehousing tools.
+,
+Experience with cloud services such as GCP or AWS and Linux environment and storage architecture.
+,
+Experience with workflow scheduler (azkabar / airflow).
+,
+Familiar with big data and data engineering infrastructure.
+,
+Excellent analytical and problem-solving skills.
+,
+Good communication (both English & Bahasa Indonesia) and collaboration skills.
+,
+Passionate about startup, innovation, and technology.
+,
+Adaptable to dynamic, fast-paced environment and changing requirements.",Senior Data Engineer,Jakarta
+2 days ago,Global Tiket Network,"Role instructions:,
+,
+Catch the sunrise on the top of Padar Island and see fascinating views of the boundless blue sea. Dive and spot the beauty of colorful fishes, dancing jellyfishes, and unique coral collections in Labuan Bajo. Take selfies with the world’s largest lizard in Komodo Island or build the majestic sandcastle in Pink beach. Guess which country you could possibly do all those enjoyable activities in? Yup, the answer is Indonesia. With over 17,000 islands, Indonesia has many destinations worth exploring.,
+,
+,
+Are you looking for a new purpose in life? To introduce the beauty of Indonesia to the eyes of the world.,
+,
+,
+This is the opportunity to make you excited to jump out of bed every morning. We are looking for a hungry, agile, and quality-oriented Sr Data Engineer to open Indonesia’s window to the world and also the world’s window to Indonesia. Join our mission to make Indonesia a prosperous nation through tourism.,
+,
+,
+Your main duties in flying with us:,
+,Responsible for managing, optimizing, overseeing and monitoring data retrieval, storage and distribution throughout the organization,
+,Develop and monitor the data loading process,
+,Develop tools for data integration or support business needs,
+,Develop a deployment system between the environment,
+,Develop an automation system,
+,
+,
+Mandatory belongings that you must prepare:,
+,At the minimum have 3 years of experience in data engineering,
+,Advance in SQL Script,
+,Advance in Python Script,
+,Familiar to use Bash Script,
+,Able to use Linux Command,
+,Have knowledge of big data stack (Hadoop, Spark, Hive, Kafka),
+,
+,
+In the event that you haven’t received any updates after 3 weeks, your data will be kept and we may contact you for another career destination.",Sr Data Engineer,Jakarta
+30+ days ago,Tokopedia,"Responsibilities:,
+Lead a team of 4-8 individuals: Drive work through the team, review code as required, and ensure the overall success of the team.,
+Design and develop robust end-to-end data solutions for structured and unstructured data including, but not limited to, ingestion, parsing, integration, auditing, logging, aggregation, normalization, modeling, and error handling.,
+Interact directly with end users to gather requirements and consult on data integration solutions. Regularly have their best interests in mind and proactively recommend value added items – even if not requested.,
+Maintain, support, and enhance most elements of Tokopedia’s Information Management Systems with minimal assistance from peers.,
+Collaborate with a cross functional team to resolve data quality and operational issues.,
+Identify opportunities for team standardization in coding, deployments, documentation, cost optimization and other related areas and create said standards.,
+Provide mentoring / coaching to junior and senior developers in the team.,
+Educate the team in emerging related technologies and identify value add opportunities for their implementation,
+Timely delivery of project,
+Work with the Product Manager to define incoming project and resource requirements.,
+Migrate code across environments and leverage a source code management system.,
+Create jobs to perform auditing and error handling.,
+Report and communicate project deliverables to Senior Management.,
+Skill Sets:,
+Proficiency in traditional RDBMS with an emphasis on Postgres, and MySQL.,
+General understanding of ETL/ELT frameworks, error handling techniques, data quality techniques and their overall operation,
+Generally proficient in performing data transformations via scripting, stored procedures, or an ETL framework.,
+Proficient in developing and supporting all aspects of a big data cluster: Ingestion, Processing, integration (Python, Spark, Scala), data cleansing, workflow management (OOZIE and ActiveBatch, Airflow), and querying (SQL).,
+Proficiency in at least one of the following programming languages: Java, Python, Go and Scala.,
+Experience in writing Apache Spark or Apache Beam including an understanding of optimization techniques.,
+Proficient in Unix and Linux operating systems,
+Proficient in Agile or Scrum methodologies,
+Capable of navigating and working effectively in a DevOps model including leveraging related technologies: Jenkins, GitLab, Git etc…,
+Proficient in Data Management concepts like Data Security, Data Quality, Data Lifecycle, Data Governance,
+Education:,
+A Bachelor’s Degree in Computer Science or related field required.,
+5+ years of Data Integration experience,
+5+ years of hands on experience with one of the following technologies: Hadoop, Apache Spark, Redis, SQL, Redshift, PostgreSQL,
+2+ years experience with Cloud Environment like AWS, GCP or Azure,
+Having experience in GCP Product like Bigquery, Dataflow, PubSub, Bigtable, Composer, GCS is a big plus,
+3+ years of experience in developing REST APIs,
+3+,years of experience,in using complex ,SQL,
+3+ years of experience in People Management",Data Engineer Lead,Indonesia
+11 days ago,Sinbad,"Job Description
+,
+As a Data Engineer, you will be joining a cool team of data engineers and fanatics, conducting research and applying the latest technologies in the function of our customer needs. You will have the responsibility to design, build, support, and maintain scalable infrastructure to optimize data flow. You will be a key contributor in driving Sinbad’s mission to simplify the supply chain by connecting suppliers and traditional retailers through the use of data.
+,
+,Who you are and what you’ll be responsible for:,
+,Build a super star product:,
+Build ETL/ELT pipeline from various data sources to various destinations.
+,
+Design, build, support and scale our data infrastructure. Including monitoring, alerting and debugging infrastructure.
+,
+Improve data quality for better analysis use
+,
+Collaborate with internal team
+,
+Work closely with other teams (Product, Tech, Business) to solve their use case using data technology.
+,
+Build testable components and write the appropriate unit tests.
+,
+Support internal improvement
+,
+Build reusable code.
+,
+Promote lean code documentation.
+,
+Lead in code review session and peer code review.
+,Basic Requirements
+,
+Bachelor degree in Information System, Computer Science, Statistics, or relevant field
+,
+3+ years experience working in a Data-related field
+,
+Expert in SQL and DWH concept
+,
+,Fluent in one of the scripting languages:, Python, Scala, Java
+,
+,Experience in one of the DWH solutions:, BigQuery, Redshift
+,
+,Experience with one of the orchestration tools:, Airflow, Kafka, Luigi
+,
+,Experience with one of the stream-processing systems:, Pub/Sub, Kafka, Amazon Kinesis
+,
+Experience in building and optimizing data pipelines, architectures and data sets
+,
+Experience in processing and answering specific business questions and identifying opportunities for improvement
+,
+Fluent in both English & Bahasa Indonesia, competent reading and writing abilities in both languages
+,
+Preferred Requirements
+,
+Familiarity with NoSQL (MongoDB, Cassandra)
+,
+Exposure with BI tools (Redash, Data Studio, Tableau)
+,
+Exposure to Dev-Ops
+,
+Previous experience in E-Commerce, Logistics, and/or Fintech platforms
+,
+Excited to work in a start-up environment
+,
+Excellent verbal, written, and interpersonal communication skills
+,
+Critical thinking with problem-solving skills",Data Engineer,Jakarta
+30+ days ago,Merah Cipta Media,"Responsibilities
+,Are you interested in building better products based on data? We makes decision by looking at the data, hence we value data. As data science engineer, you will get to work on some engineering-related tasks like building API in a TDD fashion, and some data science-related tasks like classifications, clustering, etc. There are 2 kinds of code that we write: ,scripting, code and ,production-level, code. For scripting, we write scripts just to get the job done. For production-level code, we need it to be production-ready, meaning no slow-performing codes are allowed. ,What you will do:,
+,Bunch of classifiers,
+,Clustering,
+,Newsfeed scoring (incl., recommender engine),
+,Requirements
+,Believe in our values: ,Get job done, Be Bold, Stay Curious, Excellence, Collaboration,
+,Knowledge in computer-science is a must,
+,Have a foundation on machine learning concepts and algorithms (text-related is preferred),
+,Able to scrape website for gathering training data, and clean them up,
+,Able to do queries (SQL and NoSQL),
+,Able to code in Python (knowing Golang is a plus),
+,Familiar with Git,
+,Knowledge on containerized-solutions (docker, kubernetes) is a bonus,
+,Preferred qualifications:,
+,Experienced on software architecture,
+,Experienced on production-level machine learning systems,
+,Familiar with devops function",Data Science Engineer,Jakarta
+15 days ago,Aplikas Servis Pesona,"Architecture and design of technical solutions regarding Data Loss Prevention (DLP).
+,
+Develop secure system solutions to meet DLP program requirements.
+,
+Documentation of systems designs and configurations of architected solutions; this may include conceptual, logical, and physical diagrams; new environment design documents; write-ups on technical capabilities and solution configurations; etc.
+,
+Following up and working with internal IT teams to ensure solutions are built, deployed, and modified as necessary according to the project
+,General Requirements;
+,
+Candidate must possess at least a Bachelors Degree in Informatics Engineering / Informatics System
+,
+Fluent in English (Reading, Writing, and Speaking)
+,
+Analytical and process-oriented mindset
+,
+Enthusiastic and creative team player with the ability to inspire others
+,
+Technical Requirements;
+,
+Proven experience regarding front-end architecture and design of technical solutions in the DLP space (is more preference).
+,
+1 Year of DLP operational experience is required, must have implemented DLP, understanding expressions, analysis, policy drivers, and rules work, etc.
+,
+Having knowledge about network security technologies including; Proxies, NG Firewalls, SSL/IPSec, VPN’s, SSO, DLP, and Encryption gateways.
+,
+Demonstrable experience with systems installation, configuration, and administration of UNIX/Linux and Windows-based systems (prior Active Directory/LDAP experience desirable).
+,
+Expert in troubleshooting various scenarios and systems by using knowledge of common tools (tcp dump) and protocols (TCP/IP, NTP, DNS, DHCP).",Data Loss Prevention (DLP) Engineer,Jakarta
+18 days ago,PT Bumi Amartha Teknologi Mandiri,"We are looking for an experienced data engineer to join our team.
+,
+To succeed in this data engineering position, you should have strong analytical skills and the ability to combine data from different sources
+,Microsoft SSIS, MS SQL and Postgre (Database) , PL/SQL Stored Procedured are mandatory skill.
+,
+Understand code base solution, repository management, and branching strategy using Bitbucket.
+,
+Familiar using JIRA, Confluence.
+,
+Experience in delivery using agile approach / scrum.
+,
+Devops for automatic deployment using Jenkins .
+,
+Familiar with Azure ETL product like Azure Data Factory, Azure Synapse, Azure Datalake, Azure Devops.
+,
+Familiar using Batching Tools like Control-M.
+,
+Devops, Code Repository, Azure are optional but willing to learn",Data Engineer,Jakarta
+23 days ago,PT. Warung Pintar,"Responsibilities,Handling End-to-end Data Pipelines from heterogeneous input to Data Warehouse, serving various multiple teams for analytical purposes,Become a data architect by implementing Data Modelling concepts based on data warehouse modelling best practices,Responsible for managing a reliable Single Version of Truth and turning data into critical information and knowledge that can be used to make sound business resolutions,Define clear and well-scoped requirements documents, including specs and workflows, that is easily understood by technical and non-technical audiences,Work with Product Managers, Engineers, Data Analytics and various other teams to ship data warehouse features, updates, and data product improvements,Requirements,2 years of experience in Data Analytics field (Analyst or Engineer),Fluent in Python and advanced SQL,Expert in Data Warehouse concepts,Experienced in performing data modeling and data quality check,Familiar with Orchestration Tools (eg: Airflow),Familiar with Data Pipeline,Familiar with CI/CD,Familiar with GCP environments,Excellent attention to details,Benefits,Laptop Ownership Program,Communication & Transportation Allowance,Vision Allowance,Maternity Allowance,Insurance with Dental cover and COVID-19 free special coverage,Private Medical/health insurance for employee and family members (spouse up to 3 children),BPJS Allowance (Jaminan Hari Tua, Kesehatan, Jaminan Pensiun, Jaminan Kecelakaan Kerja, Jaminan Kematian,Experience working in a fast-paced industry,Flexible working hours 11 Fun and humble culture that cares about your personal growth,Jenis Pekerjaan: Penuh Waktu",Data Warehouse Engineer (Remote) ($),Jakarta
+30+ days ago,McKinsey & Company,"Qualifications,
+,Degree in computer science, engineering, mathematics or equivalent experience,
+Previous commercial experience in a data-driven role,
+Ability to write clean, maintainable and robust code in Python, Scala, Java or similar languages,
+Knowledge of software engineering concepts and best practices,
+Familiarity with the latest OSS, cloud, container, query and database technologies as well as query languages,
+Confirmed experience building data pipelines in production; ability to work across structured, semi-structured and unstructured data,
+Experience preparing data for analytics and following a data science workflow,
+Commercial client-facing or senior stakeholders management experience,
+,Who You'll Work With,
+,You will be based in Jakarta and be a part of a global data engineering community. You will work in cross-functional and Agile project teams alongside project managers, data scientists, machine learning engineers, other data engineers and industry experts.,
+You will work hand in hand with our clients, from data owners and users to C-level executives.,
+Who you are,
+You are a highly collaborative individual and enjoy solving problems that focus on adding business value. You have a sense of ownership and enjoy hands-on technical work. Our values resonate with yours.,
+,What You'll Do,
+,You will work in multi-disciplinary environments harnessing data to provide real-world impact for organisations globally.,
+Partner with our clients, from data owners and users to C-level executives, to understand their needs and build impactful analytics solutions,
+Design and build data pipelines to support data science projects following software engineering best practices,
+Use state of the art technologies to acquire, ingest and transform big datasets,
+Map data fields to hypothesis, curate, wrangle and prepare data to be used in advanced analytics models,
+Create and manage data environments in the cloud or on premise,
+Ensure information security standards are maintained at all time,
+Contribute to cross-functional problem-solving sessions with your team and deliver presentations to colleagues and clients,
+Be flexible to travel to our clients' offices to deliver presentations, gather information or share knowledge,
+Have the opportunity to contribute to R&D and internal asset development projects,
+Our tech stack,
+While we advocate for using the right tech for the right task, we often leverage the following technologies: Python, PySpark, SQL, Airflow, Databricks, our own OSS called Kedro, container technologies such as Docker and Kubernetes, cloud solutions such as AWS, GCP or Azure, and more!,
+What you'll benefit from,
+Real-World Impact, – No project is ever the same. We work with top-tier clients across multiple sectors, providing unique learning and development opportunities internationally.,
+Fusing Tech & Leadership, – We work with the latest technologies and methodologies and offer first class learning programmes at all levels.,
+Multidisciplinary Teamwork, - Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.,
+Innovative Work Culture, – Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.,
+Striving for Diversity, – With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.,
+Visit our ,Careers site, to watch our video and read about our interview processes and benefits.",Data Engineer - QuantumBlack,Jakarta
+30+ days ago,byOrange,"Company Description,
+Orange provides your personalized go-to pool of strategy planners, creatives, and technologists for your brand and campaign that aren't part of your daily routine. Strategic managers, content specialists, conceptual creatives, producers, SEO experts, product managers, and others are among the impact players who are held match-fit for your brand.,
+Job Description,
+Design and build highly scalable pipeline (end-to-end) for large volumes of complex data processing and analysis,
+Build and develop large data warehouses, high performance data processing pipelines, and ETL tools,
+Ensure high data integrity and quality from various data sources,
+Design and implement process improvements, build automated processes, optimize data delivery and re-designing infrastructure for larger scalability,
+Work with machine learning systems in production,
+Understanding of software design principles and best practices (test driven development, source control management etc.),
+Able to clearly articulate pros and cons of different technologies, solutions and platforms,
+Able to document use cases, solutions and recommendations,
+Qualifications,
+Solid experience and knowledge on Google Cloud Platform (or any of the major cloud solution providers such as AWS, Azure, AliCloud) for data management: Composer, Pubsub, Google Storage, Dataflow, Big Query and Data Fusion, or equivalent,
+Savvy with Airflow, or a diverse set of data technologies: Redshift, Elastic Search, PostgreSQL, Spark, Hadoop, Kubernetes,
+Fluency in Python, SQL, Java or equivalent,
+Understanding of SQL & NoSQL databases and other manipulation tools,
+Ability to work with stream-processing systems: Storm, Spark-streaming, etc.,
+Able to benchmark systems, analyse performance and bottlenecks and propose solutions to resolve them,
+Excellent written and verbal communication, able to switch between technical and plain language when discussing work,
+Able to work in teams, understand and empathize with all major stakeholders, take the lead on initiatives and direct and manage data engineers,
+Able to work in a fast-paced agile development environment,
+,5Sca1XxBm0",Senior Data Engineer,Jakarta
+30+ days ago,FinAccel,"Job Responsibility:,
+,Develop and implement Machine Learning pipeline infrastructure, including but not limited to: ETL (Extract, Transform and Load) of raw data into model features and building platform to automate ML training, testing and maintenance.,Partnering with Data Scientists to transform prototypes of predictive models into high performance, well integrated systems.,
+,Qualifications:,
+,1-2 years (for Junior role) and 3-5 years (for Senior role) of relevant experiences in Software Engineering or Data Engineering,Ability to write robust code in Python,High degree of proficiency with RDBMS (i.e. MySQL, PostgreSQL) and No-SQL platforms (i.e. S3),Having baseline knowledge of data structures, data modelling and software architecture related to Machine Learning,Strong interest in building scalable and reliable Machine Learning/ AI related services,Past experience working with cloud services platform to build data pipeline, monitoring, scheduler and storage, preferably on AWS environment.,Familiarity using a distributed computing platform, such as Hadoop or Spark is a plus","Software Engineer, Data",Jakarta
+30+ days ago,Niagaprima Paramitra,"Job Description, :,
+,Advance level experience in SQL coding, writing complex OLAP queries,Should participate in system testing, UAT & code migration activities in various environments,Implementation of ETL application, ETL Developer such as: Informatica, IBM Data Stage, Pentaho, Talend,Have experience in Cloudera implementation,
+,
+,Requirements, :,
+,Minimum 2 years in implementation big data or data warehouse,Strong experience in designing, bulding and implementing ETL Jobs,Strong knowledge in database development,Have experience as query developer pl/sql database : oracle, sql server, postgre, etc,Candidate must possess at least a Bachelor’s Degree, Engineering (Computer/Telecommunication) or related in this area,Passionate in learning new technology, capable to solving problem,High initiatives, excellent team work, and customer business oriented,Good communication and interpersonal skill,Can join immediately,
+,
+,Job Category: ,Technical Consultant
+,Job Type: ,Full Time
+,Job Location: ,Jakarta",Data Engineer,Jakarta
+12 days ago,PT BFI Finance Indonesia Tbk,"Identify internal and external data visualization and reporting needs, in collaboration with the Director, Institutional Research, Communications, and program teams.
+,
+Fulfill data visualization and reporting needs across the Foundation through the development of intuitive, engaging, insightful, and attractive dashboards and visualizations in Tableau, or other data visualization tools. Kinds of visuals may include information on grant type, organizations, program strategies, grant activities and subjects, grantee locations and activity settings, as well as, grant products or outcomes. Understand the implications of data, and interpret data in context, including identifying trends and outliers.
+,
+Prepare data visualizations and summarize key takeaways for presentations and reports, including grantmaking visuals presented to the Board and data visualizations for external sources.
+,
+Clean and organize large datasets, primarily from the Postgresql secondary database, for analysis and visualization; verify and ensure accuracy, integrity, and consistency of data.
+,
+Collaborate with the Director, Information Technology, and Operations staff to conduct comprehensive reviews of organization-wide data.
+,A bachelor's degree in data technology, informatics, science, statistics, or a related field, master's degree preferred.
+,
+5+ years of professional experience in a research and data visualization environment.
+,
+Expertise building and creating engaging and effective dashboards and data visualizations with common visualization tools such as Tableau or Power BI.
+,
+Experience working with multiple data systems, large relational databases, and SQL.
+,
+Excellent visual skills and experience working with communications and branding professionals.
+,
+Creative vision, a passion for learning and willingness to adopt and share new ideas.
+,
+Excellent communication skills, with the ability to work with a wide variety of departments.
+,
+Ability to manage and coordinate multiple projects and tasks simultaneously, with a careful attention to detail.",Data Visualization Engineer | Pinjam Modal,Tangerang
+30+ days ago,J-Express,"Collect data source from Big Data Platform (BDP) for development and reporting.
+,
+Develop data mart and analytic tools environment, including database structure (tables, views, stored procedure, job scheduler) - which will be used by Data Analyst.
+,
+Develop data integration and processing (data flow, mapping, transforming and loading) with ETL Engine (SSIS), including troubleshooting.
+,
+Maintain database parameter and monitor job scheduler.
+,
+Assist Data Analyst in collecting raw data from Big Data Platform (BDP) in order to complete user’s data request.
+,Minimum Bachelor’s degree from any major (Information Technology preferred).
+,
+Have understanding of T-SQL (SQL Server/MySQL/HQL), including (but not limited to) aggregation, conversion and logical expression.
+,
+Have prior exposure to various analytic tools such as Power BI/ Tableau/ Metabase.
+,
+Have prior experience as ETL Developer (minimum 1 year).
+,
+A team player, eager to learn, organized, and have strong problem solving skill.",Data Engineer,Jakarta
+30+ days ago,FinAccel,"FinAccel is a fun, fast-growing company with lofty ambitions. Starting with instant e-commerce financing, we are on a goal to disrupt unsecured lending in Southeast Asia, one of the fastest-growing economic regions globally.
+,
+Our first product, Kredivo , which integrates at merchant checkout, qualifies e-commerce buyers for instant e-commerce purchase financing at rates which are much lower than consumer finance companies.
+,
+,As an Data Engineer, you will be excited to:,
+Design and develop scalable business data solutions across the entire data supply chain.
+,
+Create and review technical and user-focused documentation for data solutions (data models, data dictionaries, business glossaries, process and data flows, architecture diagrams, etc.).
+,
+Solve for complex data integrations across multiple systems.
+,
+Collaborate with management, business partners, analysts, developers, architects, and engineers to support data quality efforts.
+,
+,Expertise (can teach/instruct others):, in current data warehousing concepts (using technologies like Redsift, Spark, Hadoop, web services, etc to support business-driven decisioning)
+,
+SQL and database scripting
+,
+With data manipulation scripting languages (like Python or Scala)
+,
+With Data Science toolsets and technology stacks
+,A passionate and curious individual in Data Engineering and Analytics subject areas
+,
+1-5 years of any relevant experiences in Data Engineering, Data Warehouse, Business Intelligence, Analytics
+,
+Good proficiency in writing SQL, either in RDBMS (i.e. MySQL, PostgreSQL, etc) or OLAP (i.e. BigQuery, Redshift, Oracle, etc.)
+,
+Ability to write robust and scalable code in Python or other scripting programming language
+,
+Good knowledge in creating a workable business dashboard.
+,
+Basic proficiency or experience in infrastructure setup using cloud services (i.e. AWS, GCP, Azure).
+,
+Strong passion in data engineering or business intelligence areas, ability to search or create solutions.
+,
+Good communication skills in Bahasa and English. Mostly explaining technical things.
+,
+Good workable attitude, something we could invest time to develop.",Data Engineer and Analytics,Jakarta
+30+ days ago,ZALORA SEA,"In this role, the Data Engineer at ZALORA will be a part of the Data Sciences Innovation Lab. This team serves as the gatekeepers and curators of the BIG data collected into the Data Warehouse/Data Lake from all aspects of our fashion e-commerce business and support data-driven decision-making. He/she will conduct complex data analysis, continuously evolve management reporting, and deliver business insights in an environment of rapid growth and increasing complexity.,
+Responsibilities:,
+Drive the full lifecycle of Data Science projects: from gathering and understanding the end-user needs to implement a fully automated solution.,
+Develop and provision of Data pipelines to enable self-service reports and dashboards.,
+Deploy Machine learning techniques to answer the appropriate business problems using R or Python.,
+Visualize data using Tableau and create repeatable visual analysis for end users to use as tools.,
+Take ownership of the existing BI platforms and maintain the data integrity and accuracy of the numbers and data sources.,
+Know Agile - Scrum project management experience/knowledge - Ability to prioritise, pushback and effectively manage a data product and sprint backlog.,
+Requirements:,
+4+ years of experience in building out scalable and reliable ETL/ELT pipelines and processes to ingest data from a variety of data sources, preferably in the ecommerce retail industry.,
+Deep understanding of Relational Database Management Systems (RDBMS) (e.g. PostgreSQL, MySQL) , No-SQL Databases (e.g. MongoDB, ElasticSearch) and hands-on experience in implementation and performance tuning of MPP databases (e.g. Redshift, BigQuery).,
+Experience with Tableau, Power BI, Superset or any standard data visualization tools.,
+Strong proficiency in writing production-quality code preferable in R/Python, engineering experience with machine learning projects like Time Series Forecasting, Classification and Optimization problems.,
+Experience administering and deploying CI/CD tools (e.g. Git, Jira, Jenkins) Industrialization (e.g. Ansible, Terraform), Workflow Management ( e.g. Airflow, Jenkins, Luigi) in Linux operating system environments.,
+Exhibits sound business judgment, a proven ability to influence others, strong analytical skills, and a proven track record of taking ownership, leading data-driven analyses, and influencing results.,
+Knowledge of cloud services like AWS, GCP, Azure would be a huge added advantage.,
+E-commerce / logistics / fashion retail background a bonus.,
+The ZALORA Story,
+ZALORA is Asia’s leading online fashion, beauty and lifestyle destination, part of Global Fashion Group. As one of the region’s pioneer large scale ecommerce platforms, ZALORA has established a strong presence throughout the region, particularly in Singapore, Indonesia, Malaysia, Brunei, the Philippines, Hong Kong, and in Taiwan, enjoying over 50 million visits per month.,
+ZALORA is not obligated to accept resumes from any third parties on behalf of potential candidates for any position (advertised or otherwise) by any means, unless ZALORA has executed a written agreement with such third party and has expressly requested such third party for candidate referrals. Third parties who provide unsolicited resumes of candidate(s) shall waive and forfeit all rights to claim for any placement fees or referral fees in the event that such candidate is eventually engaged or employed by ZALORA or Global Fashion Group.,
+,LHDS1CueVi","Data Engineer, Engineering Team",Jakarta
+11 days ago,"Love, Bonito Indonesia","You’ll have a front seat experience in impacting women across the globe through fashion and data. You will be tasked with the monumental responsibility of shaping Love, Bonito Indonesia into a more data-driven team by kickstarting the development of our data warehouse. You will be responsible for Love, Bonito Indonesia’s data architecture and will spearhead exciting data projects that will be instrumental in driving the performance of the group.,
+,
+,Main Responsibilities,
+,Create and maintain optimal data pipeline architecture and warehouse.,
+,Design and prototype data processing pipelines that are used for making product decisions.,
+,Build/Improve and deploy data tools for data analysis.,
+,Create and expand ETL data flows from all data sources i.e. web analytics, e-commerce store, retail POS, ERP etc.,
+,Design, construct, install, test and maintain highly scalable data management systems.,
+,Assemble large, complex data sets that meet functional business requirements.,
+,Continuously identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.,
+,Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and other ‘big data’ technologies.,
+,Build high-performance catalog algorithms, prototypes, predictive models, and proof of concepts.,
+,Implement web tracking to provide advanced reports on the customers’ experience.,
+,Integrate new data management technologies and software engineering tools into existing structures.,
+,Collaborate closely with other functional stakeholders especially BI, Marketing, and Management to support their data infrastructure needs.,
+,Ability to make simple data visualization with Metabase, Power BI, or other similar visualization tools.,
+,Assist and lead data projects with cross-department such as Marketing, Merchandising, Business Development, etc.,
+,Work closely and synergize with the HQ data team in Singapore.,
+,What You Shoud Be,
+,Strong project management and organizational skills.,
+,Experience supporting and working with cross-functional teams in a dynamic environment.,
+,Able to communicate and collaborate with business stakeholders to understand data requirements and translate them.,
+,Requirements & Experiences,
+,2 years of experience in a Data Engineer role with a degree or higher in Computer Science, Electronics or Electrical Engineering, Software Engineering, Information Technology or other related technical disciplines,
+,Highly proficient in MySQL/MariaDB.,
+,Programming proficiency in at least major languages such Python/Java/Scala.,
+,Job Summary,
+,Job Level,
+,
+Executive,
+,
+,Job Category,
+,
+Data,
+,
+,Opening,
+,
+1 Slot,
+,
+,Min. Educational Background,
+,
+Bachelor's Degree / S1,
+,
+,Salary,
+,
+Negotiable,
+,
+,Recruitment Type,
+,
+Fulltime,
+,
+,Office Address,
+,
+Jl. Minangkabau No.17a, RT.6/RW.8, Ps. Manggis, Setiabudi,
+,
+South Jakarta City, Jakarta 12970, Indonesia,
+,
+Phone: +62 21 - 228 330 10,
+,
+,About Love, Bonito,
+,
+We pride ourselves as the best and largest vertically integrated, omni-channel women’s fashion brand in the region. Founded in 2010, we’ve grown to 150 people strong, proudly headquartered in Singapore with country offices in Indonesia and Malaysia and an omni-channel presence across these 3 markets. In addition to our retail franchise in Cambodia, we ship internationally to 15 markets (Hong Kong, China, Philippines and Australia, New Zealand, US, Canada, Macau, Japan, Korea, Vietnam, Thailand, Myanmar, Cambodia & Brunei).,
+,
+We are taking our definition of new female retail global, with our sights set on becoming the most thoughtful brand for the everyday woman.,
+,How to apply?,
+,
+,You can send your CV to,
+,
+,Email,
+careers.id@lovebonito.com
+,Subject,
+Data Engineer - ,Your name",Data Engineer,Jakarta
+30+ days ago,Tritronik,"ROLE AND RESPONSIBILITIES:,
+,Hadoop Administration
+,Install necessary hadoop components,
+,Configure hadoop namenode and resourcemanager,
+,Data Acquisition
+,Create system that collects data from different machines,
+,Data Ingestion
+,Import data from local into HDFS,
+,Import data from HDFS into a new or existing Hive table,
+,Data Analysis
+,Write and execute a Hive query,
+,Write mapreduce and spark application and run it on hadoop cluster,
+,Data Flow
+,Create Apache Nifi template,
+,QUALIFICATIONS AND EDUCATION REQUIREMENTS:,
+,Bachelor degree of Computer Science/Informatics or related major,
+,Able to work in team,
+,Able to write formal documentation,
+,Analytical skills,
+,Initiative, thorough, self-motivated,
+,Interested in developing good quality solution,
+,PREFERRED SKILLS:,
+,Understand Big Data concepts,
+,Able to use HDFS operations to move data,
+,Able to perform data acquisition and ingestion to hadoop platform,
+,Able to create Hive queries for data analysis,
+,Able to operate apache Nifi to create data flow,
+,Able to develop Spark and MapReduce applications,
+,Able to create applications using Java and Python,
+,Understand basic commands in UNIX based environment",Big Data Engineer,Bandung
+2 days ago,PT Global Urban Esensial,"Execute request for ingestion, creation and preparation of data sources
+,
+Integrate data from multiple internal and external sources to the Analytics environment, to be used for Analytics models and solutions
+,
+Deliver data sourcing approach and datasets for analysis, with activities including data staging, ETL, data quality and archiving
+,
+Create logical and physical data model structures to enhance performance of the application by creating aggregation and summarization structures
+,
+Implement data quality standard and metrics
+,
+Improve processes and methodologies to ensure all data-driven use cases can be delivered, can create value, and is sustainable according to the highest level of quality
+,
+Collaborate with analytics analyst to understand, communicate, and implement Analytics and process best practices
+,Bachelor Degree in Statistics, Mathematics, Computer Science or equivalent
+,
+Having at least 3-5 years experience as Data Engineer
+,
+Hands on experience developing and managing cloud data infrastructure (GCP preferred)
+,
+Familiarity in Pyspark / Scala data lake & data warehouse development
+,
+Experience in Advanced SQL DB design
+,
+Good understanding in developing data pipelines & scheduler (Airflow / Beam, etc)
+,
+Familiar with Hadoop & Hive Table cluster",Data Engineer,Tangerang
+30+ days ago,Hyphen Group,"THE, ,ROLE,
+,
+In an exciting, international and fast-paced work environment, you will be given challenging and diverse opportunities every day. You will collaborate with the team on building a new, high-caliber development team responsible for all core technology build-out (all stack tiers) for the Hyphen Group platforms to be deployed in markets across Asia.,
+,
+YOUR TASK,
+,
+,Helping to craft and implement the data pipelines and infrastructure at Hyphen Group,
+,Applying sound data engineering principles and innovative data science to improve the financial lives of our customers,
+,Supporting a data-driven culture by building democratic, self-service data management and analysis tools with data privacy and governance as primary design goals,
+,Engaging with data stakeholders (including application engineers, management teams, business analysts and data scientists) as a subject matter expert on data engineering practices and the application of data science to complex business problems,
+,
+,SKILLS & REQUIREMENTS,
+,
+,Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.,
+,Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.,
+,5+ years professional experience developing high-quality code in one or more SQL and Python,
+,5+ years professional experience with data-wrangling and visualization with relational and non-relational databases,
+,Professional experience designing and implementing critical path data pipelines and scalable data lake architectures, ideally within a cloud platform,
+,Professional experience working across the data engineering and data science technology landscape such as Metabase, Kafka, Pandas, Spark, Jupyter, Snowflake, Kubeflowand data visualization using Notebooks,
+,Experience with the implementation and deployment of machine learning in the areas of customer lifetime value, marketing personalization and product recommendation,
+,Experience deploying predictive modeling and statistical analysis techniques to build end-to-end production-ready solutions with associated monitoring, quality control and metadata capture,
+,Excellent verbal and written communication skills,
+,
+,What can you expect from us?,
+,
+Impact,: We are actively empowering and connecting people to a better financial future. Join us if you want to help us achieve our mission.,
+,
+Work: ,We have a team of over 350 talented individuals in 6 markets who are hyper passionate about building innovative financial solutions and making an impact on people's lives.,
+,
+Culture,: We take our work seriously but don't hesitate to keep things light. We can only create magic when we have a little bit of fun.,
+,
+Thrive:, We launched in 2014 and fast-forward 7 years we now help over 10 million monthly users make the best financial decisions. Accelerate your career and become a pioneer in your field with a leading fintech company that seeks to push the boundaries of your imagination and is committed to growing your career.,
+,
+Reputation:, We are backed by world-class organizations and companies and have raised over US$110 million from investors including Experian, Pacific Century Group, IFC - a member of the World Bank Group,
+,
+,EEO Statement,
+,Hyphen Group is an equal opportunity employer. We value, support and respect all individuals and is committed to maintaining an inclusive and diverse working environment. Decisions in hiring are based on business needs, requirements of the job and individual qualifications and shall not be influenced by any consideration of race, ethnic or national origin, religion, sex (including gender identity and/or expression), age, sexual orientation, marital status, parental status, disability, genetic information, political affiliation or other applicable legally protected characteristics.",Data Engineer,Jakarta
+30+ days ago,Solve Education,"We are looking to hire a skilled data engineer who can create an amazing experience for our customers as they build and maintain solutions and find trends in data sets and develop algorithms to help make raw data more useful to the enterprise.,
+Requirements:,
+3-5 years of professional experience as Data Engineer, Data Warehouse, Business Intelligence, Data transformation, and/or Data Modelling.,
+Design and deploy large-scale data platforms and data warehouses.,
+Design and deploy ETL and data ingest tools and strategies in a cloud platform,
+Experience with relational systems, object stores, and Google Cloud’s Big Query,
+Strong SQL and/or NoSQL database knowledge,
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.,
+Experience with object-oriented, object function scripting languages such as Python, Java, NodeJS, PHP, etc,
+Proven ability to collaborate in a multicultural team,
+Knowledge of modern education systems and development field is desirable,
+Ability to remain focused in a team-oriented environment,
+Good verbal and written communication skills (Required language: English),
+Plus:,
+Bachelor’s degree in engineering, computer science, computer engineering, Math, Statistics, Physics.,
+Has sufficient working experience in the game industry,
+Experience with stream-processing systems in a cloud environment such as AWS or Google Cloud,
+Has proficiency and understanding of the platform as a service (PaaS) from the major cloud vendors.,
+understanding of the application of analytics processing engines,
+Experience with big data tools such as Hadoop,
+Knowledge of visualization tools such as Google Data Studio,
+Production experience in building real-time analytics applications,
+Strong analytic skills related to working with unstructured datasets,
+Job Description,:,
+Build and maintain database system and model for the dashboard and report visualization,
+Identify, design, and implement internal process improvements automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc,
+Collects, integrates, aggregates, transforms, and wrangles data at scale to enable data science activities, self-service analytics, and production analytics such as machine learning.,
+Maintaining our data warehouse and data storage system to make sure it’s reliable and quality.,
+Construct code with good coding standard and practices to ensure high quality and minimum risks,
+Build analytics tools that utilize the data pipeline to provide actionable insight into customer acquisition, operational efficiency, and other key business performance metrics.,
+Work with data and analytics experts to strive for greater functionality in our data systems.,
+Keep data separated and secure across national and global boundaries through multiple data centers.,
+Send your CV to ,career@solveeducation.org",Middle-Level Data Engineer,Bandung
+30+ days ago,Accenture,"About Accenture,
+Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all of these services. We combine unmatched experience and specialized capabilities across more than 40 industries – powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. With 505,000 people serving clients in more than 120 countries, Accenture brings continuous innovation to help clients improve their performance and create lasting value across their enterprises. Visit us at www.accenture.com,
+,
+,Role Summary:,
+,
+There will never be a typical day at Accenture, but that’s why people love the dynamism. The opportunities and initiatives to make a difference, doing good for the public, are unlimited in the ever-changing digital landscape. Here are just a few of your day-to-day responsibilities:,
+Understand our customers' core business objectives and build end-to-end data centric solutions to address them,
+Collaborate with technical business analyst, to understand business requirements, data, and optimize data pipeline performance.,
+Build solutions in big data and data management tools meeting projects’ requirements,
+Construct code with good coding standard and practices to ensure high quality and minimum risks,
+Closely working with project manager and technical leads to provide regular status reporting and support them to identify blockers for quick resolution.,
+,
+,Qualifications,
+Basic Skills and Qualifications:,
+Experience with Data Engineering or Big Data Technologies, or Data Transformation, and data modelling,
+Experience in architecting and building scalable data platforms.,
+Experience with Informatica or other related data Integration tools,
+Experience with Cloud Technologies (Data Lake, Azure, Google, AWS etc.) or experience with open source technologies (Spark, Kafka, Presto, Hive, Cassandra etc.),
+Experience with SQL and/or NOSQL databases,
+Preferred Skills and Qualifications:,
+Production implementation experience for all qualifications listed,
+Production experience in building real-time analytics applications,
+Experience in both batch and stream processing technologies,
+Experience with 2 of 3 - Java, Scala, and Python programming languages,
+Machine learning experience with Spark or similar,
+Certified Data Engineers or Solution Architect in 1 or more Cloud Technologies (AWS, GCP, Azure),
+Ability to manage numerous requests concurrently and be able to prioritize and deliver,
+Good communication skills,
+Dynamic team player,
+Bachelor’s or Master’s Degree,
+You will also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.,
+,
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.,
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.",Data Engineer,Jakarta
+14 days ago,PT. Warung Pintar,"Responsibilities,Build and maintain End To End Data Pipelines from heterogeneous input and output,Helping the Team to bring Data Transformation into Production,Design, build, monitor, and maintain the data platforms utilized by the stakeholders,Develop automation and tools to improve the data workflow,Requirements,1+ year experience in Data Engineering,Advanced experience with SQL and Data Warehouse concept,Expert in at least one programming language, especially Python, Scala, or Java,Experience with data pipeline workflow management tools like Airflow,Proficient in the Batch data processing,Familiar with the real-time data processing,Experience with Cloud infrastructures will be valuable (e.g GCP, AWS),Benefit,Opportunity to learn from a brilliant and energetic team,Experience to work in a fast-paced industry,Flexible working hours,Fun and humble culture that cares about your personal growth,Communication allowances,Transportation allowances,Vision allowances,Medical/health insurance,The Indonesian National Employment Insurance System (BPJS Ketenagakerjaan),The Indonesian National Health Insurance System (BPJS Kesehatan),Jenis Pekerjaan: Penuh Waktu",Data Engineer (Remote) ($),Jakarta
+30+ days ago,Mekari (PT. Mid Solusi Nusantara),"Mekari is Indonesia's no. 1 Software-as-a-Service (SaaS) company. Our mission is to empower businesses and professionals to progress effortlessly. Our products (Talenta, Sleekr, Jurnal, KlikPajak) have been used by tens of thousands of business in Indonesia.,
+,
+To reach millions, we need more people like you: entrepreneurs, builders, owners inside the company who are eager to grow at scale. Join us to empower more businesses with technology.,
+,
+Job Descriptions:,
+,
+,Design, build, and maintain data lake, data warehouse & data pipeline that can adequately handle the needs of a rapidly growing data driven company.,
+,Build out scalable and reliable ETL pipelines and processes to ingest data from a large number and variety of data sources.,
+,Maintain and optimize the performance of our data analytics platform to ensure accurate, reliable, and timely delivery of key insights for decision making.,
+,Collaborate with data analysts, data scientists, and business process owners in order to provide them with needed data and infrastructure.,
+,Maintain highest levels of engineering practices including: technical design, solution development, systems configuration, test documentation/execution, issue identification and resolution, writing clean, modular and self-sustaining code, with repeatable quality and predictability.,
+,Requirements/Qualifications:,
+,
+,A degree or higher in Computer Science, Software Engineering, or other related technical disciplines.,
+,3 years of industry experience in software and/or data engineering.,
+,Have a good understanding of data modelling,
+,Fluency in programming with Python/Java/Scala and SQL.,
+,Experienced with data engineering tools such as Spark, Kafka, and Airflow.,
+,Familiarity with cloud big data environment such as AWS (EMR, Glue, Athena, Redshift) and GCP (BigQuery, Dataflow, Dataproc).,
+,Proficiency in software engineering best practices such as clean/maintainable code, Git, code review, unit/integration testing, Infrastructure as Code, and Continuous Integration/Continuous Delivery.,
+,
+,What You Will Get:,
+,
+,Competitive salary + daily allowance,
+,Private health insurance (outpatient, inpatient, maternity, dental),
+,Allowance for sports activities and glasses/contact lenses,
+,Strategic office location, accessible by MRT,
+,Flexible working hours and remote work culture,
+,Notebook Ownership Program,
+,Friendly and dynamic work environment,
+,Opportunity to take part in growing Indonesia's no. 1 SaaS company,
+,
+,
+,Our team will review your application and will be in touch if your application is shortlisted to the next stage. If you do not hear from us in 30 days, we will keep your resume on file in case a relevant opportunity opens up.,
+,
+,We wish you the best. Have a great day",Senior Data Engineer,Jakarta
+30+ days ago,MNC,"Requirements,
+,Bachelor’s degree in Computer Engineering/Computer Science or related field.,
+,Minimum 2 years experiences in ETL developer, Data engineer, or Data Warehouse developer role,
+,Have knowledge in programming (Python or Scala or Kafka),
+,Have knowledge in DBMS and SQL query,
+,Job Information,
+,Education Level : S1
+,Job Level : Officer
+,Job Function : Application Specialist - Software / Programming
+,Job Type : Contract
+,Job Location : Jakarta
+,Work Experience : 2 Year
+,Share",Data Engineer,Jakarta
+30+ days ago,Tokopedia,"Responsibilities:,
+Develop robust end-to-end data solutions for structured and unstructured data including, but not limited to, ingestion, parsing, integration, auditing, logging, aggregation, normalization, and error handling.,
+Collaborate with a cross functional team to resolve data quality and operational issues.,
+Interact directly with end users to gather requirements and consult on data integration solutions. Regularly have their best interests in mind and proactively recommend value added items – even if not requested.,
+Maintain, support, and enhance most elements of Tokopedia’s Information Management Systems with minimal assistance from peers.,
+Provide mentoring / coaching to junior developers,
+Receive and adhere to project delivery deadlines.,
+Migrate code across environments and leverage a source code management system.,
+Create jobs to perform auditing and error handling.,
+Develop and maintain proper documentation for data pipeline and service,
+Doing code review during development,
+Skill Sets:,
+Proficiency in traditional RDBMS with an emphasis on Postgres, and MySQL.,
+General understanding of ETL/ELT frameworks, error handling techniques, data quality techniques and their overall operation,
+Generally proficient in performing data transformations via scripting, stored procedures, or an ETL framework.,
+Proficient in developing and supporting all aspects of a big data cluster: Ingestion, Processing, integration (Python, Spark, Scala), data cleansing, workflow management (OOZIE and ActiveBatch, Airflow), and querying (SQL).,
+Proficiency in at least one of the following programming languages: Java, Python, Go and Scala.,
+Experience in writing Apache Spark or Apache Beam including an understanding of optimization techniques.,
+Proficient in Unix and Linux operating systems,
+Capable of navigating and working effectively in a DevOps model including leveraging related technologies: Jenkins, GitLab, Git etc...,
+Education:,
+A Bachelor’s Degree in Computer Science or related field required.,
+3+ years of Data Integration experience,
+3+ years of hands on experience with one of the following technologies: Hadoop, Apache Spark, Redis, SQL or Redshift or PostgreSQL,
+1+ years experience with Cloud Environment like AWS, GCP or Azure,
+Having experience in GCP Product like Bigquery, Dataflow, PubSub, Bigtable, Composer, GCS is a big plus,
+1+ years of experience in developing REST APIs,
+3+,years of experience,in using complex ,SQL",Senior Data Engineer,Indonesia
+5 days ago,A Job Thing,"Company Description,
+Headquartered in Kuala Lumpur, Ajobthing is a successful start-up that aims to deliver products that solve recruitment problems using cutting edge software, the world wide web, mobile and innovative marketing.,
+We are ,result-oriented, and welcome ,fail-fast mentality,, ever willing to try out fresh ideas. When others may ask “Why?”, we choose to ask “Why not?”. We encourage a spirit of collaboration, celebrate the success of colleagues and practice picking each other up when we inevitably fall. We frown upon office politics, self-centeredness and discrimination. Bureaucracy slows down many companies, so here we built one that practices simple, lean, and efficient processes.,
+Last but not least, ,we define success based on the value we create for our users,.,
+,
+,Job Description,
+,
+Develop high-quality, maintainable code to build and deploy Natural Language Processing modules and machine learning models and as part of AI pipeline,
+Works with data and software engineering team to integrate models into pipeline,
+Construct and iterate product prototypes,
+,
+,Qualifications,
+,
+Bachelor's Degree in Computer Science, IT, Mathematics, or related field.,
+Minimum 2 years experience as Data Scientist or Machine Learning Engineer,
+Comfortable with mathematics and statistics (the basis of all ML systems),
+Has a strong Algorithm, A basic understanding of machine learning (NLP), and deep learning fundamentals,
+Fluency in a python programming language (know Node.JS is a plus),
+Practical knowledge in SQL and NoSQL,
+Experience working with AWS infrastructure and ElasticSearch is a plus,
+A positive, committed team player who can thrive in a rapidly changing startup environment,
+Excellent time management and communication skills,
+Additional Information,
+Salary: ,6 - 8 Juta Rupiah (negotiable),
+,
+,Other benefits:,
+Laptop & supporting hardwares will be provided,
+Casual Attire,
+Medical Claims,
+Optical & Dental benefits",Data Science Engineer,Depok
+30+ days ago,Vivere Group,"Job Description:,
+,Design, implement and manage end to end data pipelines (ETL, data streaming and warehousing) so as to make data easily accessible for analysis.,
+,Develop and maintain the data platform, business intelligence, and experimentation tools,
+,Make sure that data is secure in the transport and at rest,
+,Responsible for data pipelines & platform.,
+,Filter, clean and continuously manage data by reviewing data sources across different tools and systems,
+,Job Requirement:,
+Bachelor's degree in Computer Engineering/Information Technology or any equivalent technology fields.,
+Strong Analytical Skills,
+Having data engineering skills on Data pipeline, data platform, data warehouse & etc.
+,
+,Experience minimum 2 years in Data Engineering,
+Hands-on experience and strong proficiency on ETL in 2-3 years (Extract, Transform, Load) Process,
+Having experience with Business Intelligence Tools (Power BI, Tableau, Holistics, etc) will be an advantage,
+Proficiency in Java Language, Python, R and various programming language,
+Experience working with GIT or Github,
+Experience with AWS ecosystem is a plus",Data Engineer,Jakarta
+30+ days ago,Flash Coffee,"Flash Coffee is Asia's fastest-growing tech-enabled specialty coffee chain. We aim to democratize high-quality coffee to make it accessible to Asia's rising middle class. We serve up an award-winning coffee menu at affordable prices in stores and via our mobile app for customers who prefer a quick grab-and-go. Already operating in three countries, we are on a trajectory to launch an additional seven countries across Asia Pacific by 2022.,
+,
+We're a Series A startup with funding from White Star Capital, known for backing the likes of food-tech giant Freshly and Dollar Shave Club, along with Delivery Hero, the parent company of foodpanda and one of the largest food delivery companies in the world. We also count Rocket Internet (known for incubating the likes of foodpanda, Lazada, Zalora, and more) as well as Global Founders Capital, which has backed global successes such as Facebook, LinkedIn, and Slack.,
+What you'll do:,
+,
+,Owning the data environment to be used as single source of truth for analysis within the company.,
+,Design, build, and maintain data pipeline and data connections to and from external source including but not limited to Vendor API, FTP, and other related external source connections.,
+,Work together with the Tech team, to help improve the quality and the structure of the productions data.,
+,Liaise with other team to help automate and improve the quality of work from the related team related to to the data.,
+,Document the process, the code, the definition, and the structure of the data environment.,
+,Maintain the job scheduler to make sure that the data is always available and in perfect quality.,
+,Promote a data-driven culture and enforce data governance and security.,
+,
+,Who you are:,
+,
+,You have a minimum of 2 years of experience with SQL and Python is a must,
+,Analytical mindset,
+,Understanding data warehouse concept,
+,
+,What we offer:,
+,
+,A vibrant and international team,
+,Regular company and team events,
+,Being part of a fast-growing startup with a lot of responsibilities from day one",Data Engineer,Jakarta
+30+ days ago,Tokopedia,"Responsibilities:,
+Modify existing structured and unstructured data integration solutions for rapidly evolving business needs.,
+Perform smaller to medium complexity development activities for structured and unstructured data including ingestion, parsing, integration, auditing, logging, aggregation, normalization, and error handling.,
+Collaborate with a cross functional team to resolve data quality and operational issues.,
+Create conceptual models and data flow diagrams.,
+Participate with end users to gather requirements and consult on data integration solutions.,
+Receive and adhere to project delivery deadlines.,
+Migrate code across environments and leverage a source code management system.,
+Develop and maintain proper documentation for data pipeline and service,
+Skill Sets:,
+Exposure to a traditional RDBMS with a preference for Postgres, and MySQL.,
+Ability to perform data transformations via scripting, stored procedures, or an ETL framework.,
+Able to do light development and support most aspects of a big data cluster: Ingestion, Processing, Parsing, integration (Python, Spark, Scala), data movement, workflow management (OOZIE, ActiveBatch and Airflow), and querying (SQL).,
+Ability to read and understand at least one of following programming languages: Java, Python, Go, and Scala,
+Some ability to perform light to medium development in Apache DataFlow, Apache Spark.,
+Able to navigate Unix and Linux operating systems,
+Capable of navigating and working effectively in a DevOps model including leveraging related technologies: Jenkins, GitLab, Git, etc….,
+Some experience with SQL and Data warehousing solution,
+Education:,
+A Bachelor’s Degree in Computer Science or related field preferred,
+1+ years of Data Integration experience.,
+1+ years of hands on experience with one of the following technologies: Hadoop, Apache Spark, SQL or Redshift or PostgreSQL,
+Having experience in GCP Product like Bigquery, Dataflow, PubSub, Bigtable, Composer, GCS is a plus",Data Engineer,Indonesia
+30+ days ago,Sangfor Technologies,"Responsibilities,Maintain efficiently a high level of system reliability by prioritizing and resolving all issue related to Systems and Network problems,Manage and Monitor all installed systems and infrastructure,Perform Preventive operations & React to Ad-hoc task to maintain system stability,Remediate outages on both Systems & Network with SLAs to prevent impact to clients,Interact with Business Partners, third party vendors & contractors,Participate in team meetings for metric analysis and project status updates,Requirements,Solid experience in IT/DC/IaaS Operation, junior position also available,Experience with Managed Services task tracking, prioritization and escalation procedures,Mission Critical System Troubleshooting and Daily Operation & Maintenance experience,Strong Know-how of Sangfor SDDC & HCI, or VMWare/ Nutanix,Hands-on Networking: Copper, Optical Fiber Cabling, Switches and Routers etc,Participated in and deliver on a number of local/regional/global projects,Knowledge in Public Clouds and Application Modernization (AWS, Azure, Alibaba Cloud or Google),Dynamic with analytical thinking, good communications, and problem-solving skills,Business level of verbal and written English proficiency,Communication in Chinese will be an added advantage,Certifications of Linux, SDDC, Hypervisor, or Public Clouds is a plus,Physical DC Installation eg ability to lift and move 20 kg of equipment,Non-office hour Standby required,Job Type: Full-time",Data Center Operations Engineer,Jakarta
+4 days ago,MatchaTalent,"About the Company,
+,
+Executive recruitment company MatchaTalent is recruiting on behalf of our client which is an IT company which established back in 2013. Since the beginning of the company establishment, they have gained clients from local, Australia, and US which industries covered photography, logistics, delivery, and insurance. They provide services from gathering the information, analyzing the needs, building the system, and making sure the quality delivered as expected.,
+,
+Job Descriptions:,
+,
+Testing data transformation processes and generate data results.,
+,
+Participate in SCRUM ceremonies and collaborate with the team to deliver user stories.,
+,
+Develop, construct, test and maintain cloud architectures to nurture data-focused products and internal tools,
+,
+Align said architecture with business requirements,
+,
+Acquire and integrate data from external sources,
+,
+Design and implement lifecycle and retention policies,
+,
+Implement analytics models,
+,
+Manage data access and protection measures,
+,
+Write technical documentation,
+Requirements,
+Min. 3 years in SQL BI and or Big Data projects (eg. ETL, Business Intelligence (BI), Data Warehouse, Data Lake, Data Analytics).,
+,
+Data replication replated technologies and techniques.,
+,
+Proactively drive best practice in the data discipline.,
+,
+Understanding the differences between batch and realtime data processing.,
+,
+Min. 3 years in SQL BI and or Big Data projects (eg. ETL, Business Intelligence (BI), Data Warehouse, Data Lake, Data Analytics). Data replication replated technologies and techniques. Proactively drive best practice in the data discipline. Understanding the differences between batch and realtime data processing.",(Tech) Data Engineer,Jakarta
+5 days ago,PT Real Estate Analytics Indonesia,"Minimum 1-3 years experience with Data Engineering, covering data pipelines from end-to-end,
+,Familiar with Python 3, able to deliver production ready code,
+,Familiar with one modern Data Warehouse solution, e.g. Redshift, Big Query, Click House etc.,
+,Familiar with one orchestrating solution, e.g. Airflow, Luigi, Azkaban,
+,Familiar with one Relational Database such as Postgres,
+,Familiar with Git usage, a good sense of documentation and standard sprint planning process,
+,Experience with Geolocation data will be an advantage,
+,Experience with other Data Engineering tools / framework such as dbt, Spark, Kafka will be an advantage,
+,Experience with DevOps and AWS will be an advantage,
+,Experience with analytical queries,
+,Language Proficiency : English (Oral and Writing) and Bahasa Indonesia",Data Engineer,Indonesia
+30+ days ago,Alentra Rekrut,"Data Engineer,1. Have 1-3 years experience working as data engineer,2. Have knowledge regarding requirements gathering and project development,3. Have knowledge of ETL Tools (NiFi, Streamsets, Talend, Pentaho, etc) and data management,4. Having knowledge in SQL Query, PL/SQL,5. Having knowledge of data management, Data warehouse/ Data Mart or Data Quality/ Governance Process,6. Having knowledge of Bid Data (NoSQL, Kafka, Spark, Python, Hadoop, etc,7- Has Laptop,Panjang kontrak: 12 bulan,Job Types: Full-time, Contract,Salary: Rp7,500,000 - Rp10,000,000 per month,COVID-19 considerations:,Karyawan wajib menggunakan masker dan disediakan handsanitizer,Education:,S1 (Preferred),Experience:,Data Engineer: 1 year (Required),Work Remotely:,Temporarily due to COVID-19",Data Engineer,Jakarta
+27 days ago,PT. SAKA Teknologi Indonesia,"Job Requirement:,4+ year of total experience in ETL, Talend, SQL,Strong Analytical Skills,Having data engineering skills on Data pipeline, data platform, data warehouse & etc.,Experience minimum 2 years in Data Engineering,Hands-on experience and strong proficiency on ETL in 2-3 years (Extract, Transform, Load) Process,Having experience with Talend and SQL,Proficiency in Java Language, Python, R and various programming language,Good to have experience working with GIT or Github,Experience with AWS ecosystem is a plus,Job Types: Full-time, Contract, Permanent,Salary: Rp18,000,000 - Rp25,000,000 per month,Work Remotely:,Temporarily due to COVID-19",Data Engineer,Jakarta
+16 days ago,Ruangguru,"We are looking for a creative Data Engineer to join our growing team. The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross-functional teams. The ideal candidate should enjoy optimizing data systems and building them from the ground up. The Data Engineer will support our software developers, database architects, data analysts, and data scientists on data initiatives and will ensure reliable and efficient data architecture. They must be independent and comfortable supporting the data needs of multiple teams, systems, and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+,
+Create and maintain optimal data pipeline architecture.
+,
+,Identify, design, and implement internal process improvements:, automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+,
+Work with stakeholders including the Executive, Product, Data, and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+,
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+,Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+,
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+,
+Strong analytic skills related to working with unstructured datasets.
+,
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+,
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+,
+Strong project management and organizational skills.
+,
+Experience supporting and working with cross-functional teams in a dynamic environment.
+,
+We are looking for a candidate with experience in a Data Engineering role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field. They should also have experience using some of the following software/tools:",Senior Data Engineer,Jakarta
+30+ days ago,NTT INDONESIA DIGITAL BUSINESS SOLUTIONS,"Experience/Knowledge of C++
+,
+Experience/Knowledge of Docker
+,
+Experience with Unix/Linux systems
+,
+Experience with AWS (EC2, S3, SQS)
+,
+Experience building analytics platforms
+,
+Experience working with data scientists and software engineers
+,
+Experience working on data engineering and data analysis
+,
+BSc, MSc in Computer Science, Engineering, Mathematics, etc
+,Candidate must possess at least Bachelor's Degree, Master's Degree/Post Graduate Degree in Engineering (Computer/Telecommunication), Computer Science/Information Technology or equivalent.
+,At least 2 - 5 Year(s) of working experience in the related field is required for this position.
+,Expert in distributed computing technologies such as Spark, MapR (or Cloudera/Hortonworks/), Hadoop
+,Experience building Real Time pipeline processing using Spark Streaming (or Apache Flink) and Kafka (or Kinesis).
+,Experience with Scala and Python - you will need to write, test and maintain production-quality Scala and Python code.
+,Strong software engineering skills - you will be expected to work on the full software life cycle: Software design and architecture, unit tests, coding, integration tests, help in building the CI/CD infrastructure, code deployment, application monitoring.
+,Understanding of machine learning and advanced statistical techniques.
+,Exceptional attention to detail.
+,Strong presentation and communication skills. Ability to work in teams with people with different skills and background.
+,Experience with NoSQL Columnar Databases (Hbase, Cassandra).
+,Keen to explore the growing world of AIOPS.
+,Preferably Staff (non-management & non-supervisor) specialized in IT/Computer - Software or equivalent.",Big Data Engineer,Jakarta
+30+ days ago,Michael Page,"Work in a fast-growing startup,
+,Be one of the key pioneer of a lean team,
+,About Our Client,
+,One of the most popular Muslim community/social media apps, who is expanding in the Southeast Asian market. Backed by one of the largest Indonesia public company and Singapore-based private equity firm.,
+,
+,Job Description,
+,Design and develop of new Datawarehouse systems and pipeline including setting up process for data flows automation from various sources,
+,Build and maintain ETL pipeline, and executing advanced SQL queries for data requests,
+,Work collaboratively with data scientist and engineering team for development and new features release,
+,Enormous sense of ownership in handling data engineering capabilities within the growing data team that drives business decisions and product development,
+,The Successful Applicant,
+,Skilled in Python, Java and/or Golang,
+,Solid experience in database designing, preferably in MySQL,
+,Experienced with a diverse set of data technologies. Strong in SQL and ETL skills is a mus,
+,Experienced in setting up and managing cloud services in at least one of the major cloud solutions providers, preferably in AWS,
+,Excellent written and verbal communication, able to switch between technical and plain language when discussing work,
+,Analytical, innovative and entrepreneurial thinker,
+,What's on Offer,
+,Work in a fast-growing startup,
+,Be one of the key pioneer of a lean team,
+,Competitive package and flexible leave policy,
+,Contact,
+,Josephine Wiliputri,
+,Quote job ref,
+,4180011,
+,Phone number,
+,+62 21 2958 8871",Data Engineer (Lead),Jakarta
+30+ days ago,PT Lawencon,"Persyaratan
+,
+Have Bachelor Degree from reputable University with education background from Computer Science / Information Technology, Science & Technology, Business Studies / Management or equivalent.
+,Have more than 3 years experience as Data Engineer or ETL Programmer with relevant experiences in Data Mart design and implementation.
+,Familiar with ETL Tools such as:, IBM DataStage and/or Microsoft SSIS.
+,Excellent communication and interpersonal skills.
+,Have a good command in English and Bahasa (actively).
+,Team work player.
+,Live in Jakarta, Indonesia. Tanggung Jawab
+,Review and evaluate the Business Process, prepare a Business Requirement Document, determine the scope of development to be carried out.
+,
+Estimating time in development and assisting the development team in coding
+,
+As a coordinator in reviewing the Business Process and making optimal development strategies.
+,
+Reviewing test cases and test scripts for the implementation of testing solutions.
+,
+Assist in the implementation of project management to ensure that the project can be implemented and implemented in accordance with the agreed project scope and timeline.
+,
+Document clearly and easily understand all matters relating to the system architecture being developed
+,Disclaimer:, melamar pekerjaan di Karir.com tidak dipungut biaya",Data Engineer (ETL Developer),Jakarta
+30+ days ago,Traveloka,"Traveloka is a technology company based in Jakarta, Indonesia. Founded in 2012 by ex-Silicon Valley engineers and aims to revolutionize human mobility with technology. Today Traveloka is expanding its reach by operating in 8 countries and experimenting with new endeavors that will create large impact in the markets and industries we touch.,
+,
+Job Description,
+,
+The DevOps team, a branch of the Data Platform group, builds, maintains, and streamlines reliable, robust, and secure data infrastructure on top of GCP to support high-intensity data processing and cutting-edge ML models training. We deliver fully automated multi-stage Kubernetes clusters and we help our fellow data scientists to rapidly deploy data applications with automatic roll-out / rollback to production environment using CI/CD. We also practice automated GitOp-style deployments for both Kubernetes and Terraform.,
+,
+Responsibilities,
+,Automate: Architect secure and maintainable Kubernetes clusters on GCP and implement reliable CI/CD pipelines to support the operation of our infrastructure and services.,
+,Advise: Work closely with development teams to automate their build, test, packaging and development procedures and help them become more autonomous in delivering products to production.,
+,Amplify: Establish DevOps engineering best practices and be an advocate to spread DevOps culture in and out of the company.,
+,Codify: Perform the ""everything as code"" philosophy and manage infrastructure in a consistent and auditable style.,
+,Secure: Apply security best practices to AWS and GCP infrastructure and fix security findings.,
+,Operate: Share pager duty for the rare instances of something serious happening.,
+,Diagnose: Identify and fix production issues at any level of infrastructure, cluster, network, and service.,
+,Optimize: Observe and improve performance at any level of infrastructure, cluster, network, and service. Reduce infrastructure cost.,
+,Technical Qualifications,
+,Good knowledge of at least one high level programming language such as Go, Python, or Java. Being comfortable working with Shell Script.,
+,Decent working knowledge of GCP, AWS, or other cloud platforms.,
+,Solid hands-on experience with Docker, Kubernetes, ECS, or similar clustering solutions.,
+,Modest understanding of the advantages of Infrastructure-as-Code with experience in designing and implementing cloud infrastructure using IAC tools like Terraform or its equivalents..,
+,Adequate understanding of the importance of comprehensive monitoring and alerting with experience in at least one monitoring solution such as Prometheus or Datadog.,
+,Moderate experience with one or more CI/CD framework.,
+,Cross Discipline Skills,
+,Curiosity to explore creative solutions and try new things, while striving for simplicity.,
+,Solid verbal and written communication skills in English.,
+,Good at holding technical and non-technical conversations including a healthy debate of the pros and cons of your choices with your peers and coherently explain problems in detail and offer solutions.,
+,Nice-to-Haves,
+,Working experience with *nix systems and a deep knowledge of all layers of the networking stack.,
+,Possess knowledge of integrating security into GCP and AWS infrastructure.,
+,Have managed at least one latency-critical real-time data pipeline that ingested & served millions of events.",DevOps Engineer (Data),Tangerang
+30+ days ago,Michael Page,"Work alongside seasoned leaders,
+,Build core technology products from scratch,
+,About Our Client,
+,Our client is a new digital venture startup backed by a large corporation, who is aggressively building financial technologies, aiming to be the leader in establishing financial management scene and ecosystem.,
+,
+,Job Description,
+,Build highly available distributed computing systems and data pipelines at scale,
+,Proven experience in designing large data warehouses, high performance data processing pipelines, and developing ETL tools or equivalent,
+,Ensure high data integrity and quality from various data sources,
+,Design and implement governance, process improvements, automated processes, optimized data delivery and revamp infrastructure for larger scalability,
+,Able to benchmark systems, analyse performance and bottlenecks and propose solutions to resolve them,
+,The Successful Applicant,
+,Solid experience in managing cloud services (preferbaly GCP or other cloud solution providers such as AWS, Azure, or AliCloud),
+,Experienced with a diverse set of data technologies: Airflow, Redshift, Elasticsearch, PostgreSQL, Spark, Hadoop, Kubernetes, etc. Strong knowledge in ETL is a must,
+,Fluency in Python, SQL, Java or equivalent,
+,Understanding of SQL & NoSQL databases and other manipulation tools,
+,Ability to work with stream-processing systems i.e. Spark,
+,Solid communication skills; ability to switch between technical and business language,
+,Analytical, innovative and entrepreneurial thinker in a fast-paced agile environment
+,What's on Offer,
+,Work alongside seasoned leaders,
+,Build core technology products from scratch,
+,Competitive package,
+,Contact,
+,Josephine Wiliputri,
+,Quote job ref,
+,4167945,
+,Phone number,
+,+62 21 2958 8871",Head of Data Engineer,Jakarta
+24 days ago,Reeracoen Indonesia,"15,000,000 IDR ~ 20,000,000 IDR,
+,Bandung,
+,Education : Bachelor Degree,
+,Language : English Fluent level,
+,Proven working experience as data analyst,
+,Proficient in writing SQL queries,
+,Programming experience with ETL frameworks and Python,
+,Basic understanding of maintaining PostgresSQL database,
+,A drive to build a data infrastructure,
+,Technical experience with designing data models,
+,Excited to work within an international and cross-disciplinary team,
+,Ability to work independently,
+,Ability to translate technical requirements into non-technical terms,
+,Proven experience with version control tools such as GitHub/GitLab,
+,About work,仕事内容について,
+,Maintaining our current warehouse infrastructure,
+Contributing to the development of our ETL tooling,
+Creating dashboards for teams that require insights from underlying data,
+Responsible for improving our current data warehouse by improving our current ETL converters and setting up new data services to improve our data warehouse and orchestration pipelines.,
+,Salary
+,15,000,000 IDR ~ 20,000,000 IDR,
+,
+,Work Location
+,Bandung,
+,
+,Requirement
+,Education : Bachelor Degree,
+,Language : English Fluent level,
+,Proven working experience as data analyst,
+,Proficient in writing SQL queries,
+,Programming experience with ETL frameworks and Python,
+,Basic understanding of maintaining PostgresSQL database,
+,A drive to build a data infrastructure,
+,Technical experience with designing data models,
+,Excited to work within an international and cross-disciplinary team,
+,Ability to work independently,
+,Ability to translate technical requirements into non-technical terms,
+,Proven experience with version control tools such as GitHub/GitLab,
+,
+,English Level
+,Business Level,
+,
+,Other Language
+,None,
+,
+,Benefit
+,THR(Lebaran Allowance): One month salary,
+BPJS: Ketenagakerjaan, Kesehatan,
+Private Medical Insurance",Sr. Data Engineer,Bandung
