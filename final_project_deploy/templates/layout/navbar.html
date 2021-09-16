@@ -1,0 +1,65 @@
+<header>
+  <nav class="navbar navbar-dark bg-dark navbar-collapse navbar-expand-md">
+      <div class="container-md" style="height: 3.5rem; padding-right: 2vw; padding-left: 2vw; ">
+        <a class="navbar-brand" href="{{ url_for('main') }}">Data Role Recommendation</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Data Role Recommendation</h5>
+            <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0" >
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="{{ url_for('main') }}" style="color: #212529;">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {% if link_active == 'Form' or  link_active == 'Result' %}active{% endif %}" aria-current="page" href="{{ url_for('form') }}" style="color: #212529;">Predict</a>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: #212529;">
+                Links
+              </a>
+              <ul class="dropdown-menu dropdown-menu-light dropdown-menu-end" aria-labelledby="navbarDarkDropdownMenuLink">
+                <li><a class="dropdown-item" href="https://github.com/imfdlh">Github</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><h6 class="dropdown-header">Related Files</h6></li>
+                <li><a class="dropdown-item" href="#">Dataset</a></li>
+                <li><a class="dropdown-item" href="#">Notebook</a></li>
+              </ul>
+            </li>
+          </ul>
+          
+          </div>
+        </div>
+        <div class="collapse navbar-collapse" id="offcanvasNavbar">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="{{ url_for('main') }}">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {% if link_active == 'Form' or link_active == 'Result' %}active{% endif %}" aria-current="page" href="{{ url_for('form') }}">Predict</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Links
+              </a>
+              <ul class="dropdown-menu dropdown-menu-dark dropdown-menu-end" aria-labelledby="navbarDarkDropdownMenuLink">
+                <li><a class="dropdown-item" href="https://github.com/imfdlh">Github</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><h6 class="dropdown-header">Related Files</h6></li>
+                <li><a class="dropdown-item" href="#">Dataset</a></li>
+                <li><a class="dropdown-item" href="#">Notebook</a></li>
+
+              </ul>
+
+            </li>
+          </ul>
+        </div>
+      </div>
+  </nav>
+
+</header>

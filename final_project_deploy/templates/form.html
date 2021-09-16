@@ -1,0 +1,202 @@
+{% include "layout/header.html" %}
+{% include "layout/navbar.html" %}
+
+<main>
+
+    <div class="container-md">
+      <div class="row mb-5 mt-5">
+        <div class="col-md" style="padding-left: 2vw; padding-right: 2vw">
+            <h1 class="mb-5 text-center">Input Form: Student Skills</h1>
+
+            {% if show_prediction %}
+              <div class="row g-3" style="margin: auto; width:70%">
+                <div class="col-md g-3">
+                  <div id ="predicton-result" class ="predicton-result">
+                      <div class="alert alert-info alert-dismissible " role="alert" id="liveAlert">
+                      You are more suitable for <strong>{{ prediction_class }}</strong> role with percentage about <strong>{{ prediction_prob }}</strong> probability.
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                      </div>
+                      <br>
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+
+            <form action="{{ url_for('predict') }}" method ="post" class="row g-3 needs-validation" novalidate>
+
+                <div class="row g-3 mt-0" style="margin: auto; width:70%">
+                  <div class="col-md-12">
+                    <label class="visually-hidden" for="autoSizingInputGroup">Skills Input</label>
+                    <div class="input-group has-validation">
+                      <div style="margin: auto; width: 100%">
+                        <textarea class="form-control" id="skills_input" name="skills_input" style="height: 210px" placeholder="Example:
+
+A fresh graduate of Information Systems and a Data Science Bootcamp graduate with a solid fundamental skill in Programming, Data Pre-processing, Data Visualization, Data Warehouse, Machine Learning Modeling, Machine Learning Deployment, Statistics, and Business Intelligence.
+Tools: Python, SQL,
+...">{{ skills }}</textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <br>
+
+                <div class="row g-3 mt-2 mb-5" style="margin: auto; width:70%">
+                  <div class="col-md-12 d-grid gap-2 d-md-flex justify-content-md-end">
+                    <button type="submit" class="btn btn-dark btn-lg" id="liveAlertBtn">Predict</button>
+                  </div>
+                </div>
+
+            </form>
+        </div>
+      </div>
+    </div>
+</main>
+
+{% include "layout/footnotes.html" %}
+
+<script src="https://code.jquery.com/jquery-2.1.3.min.js" integrity="sha256-ivk71nXhz9nsyFDoYoGf2sbjrR9ddh+XDkCcfZxjvcM=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+var list_phone_service_no = [{name:'No phone service', value:'no_phone_service'}];
+
+var list_phone_service_yes = [{name:'No', value:'no'}, {name:'Yes', value:'yes'}];
+
+$(document).ready( function() {
+  $("input[name='PhoneService_yes']").on('change',function() {
+
+      if($(this).is(':checked') && $(this).val() == '0')
+      {
+        $('#MultipleLines').empty()
+        $.each(list_phone_service_no, function(index, value) {
+         $('#MultipleLines').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });                  
+      }
+      else if($(this).is(':checked') && $(this).val() == '1')
+      {
+        $('#MultipleLines').empty()
+        $.each(list_phone_service_yes, function(index, value) {
+         $('#MultipleLines').append('<option value="'+value.value+'">'+value.name+'</option>');
+        }); 
+      }
+      else
+      {
+
+      }
+
+  });
+});
+</script>
+
+<script type="text/javascript">
+var list_internet_service_no = [{name:'No internet service', value:'no_internet_service'}];
+
+var list_internet_service_yes = [{name:'DSL', value:'dsl'}, {name:'Fiber optic', value:'fiber_optic'}];
+
+$(document).ready( function() {
+  $("input[name='InternetService_yes']").on('change',function() {
+
+      if($(this).is(':checked') && $(this).val() == '0')
+      {
+        $('#InternetServiceType').empty()
+        $.each(list_internet_service_no, function(index, value) {
+         $('#InternetServiceType').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });                  
+      }
+      else if($(this).is(':checked') && $(this).val() == '1')
+      {
+        $('#InternetServiceType').empty()
+        $.each(list_internet_service_yes, function(index, value) {
+         $('#InternetServiceType').append('<option value="'+value.value+'">'+value.name+'</option>');
+        }); 
+      }
+      else
+      {
+
+      }
+
+  });
+});
+</script>
+
+<script type="text/javascript">
+var list_internet_service_oth_no = [{name:'No internet service', value:'no_internet_service'}];
+
+var list_internet_service_oth_yes = [{name:'No', value:'no'}, {name:'Yes', value:'yes'}];
+
+$(document).ready( function() {
+  $("input[name='InternetService_yes']").on('change',function() {
+
+      if($(this).is(':checked') && $(this).val() == '0')
+      {
+        $('#OnlineSecurity').empty()
+        $.each(list_internet_service_oth_no, function(index, value) {
+         $('#OnlineSecurity').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });
+
+        $('#OnlineBackup').empty()
+        $.each(list_internet_service_oth_no, function(index, value) {
+         $('#OnlineBackup').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });
+
+        $('#DeviceProtection').empty()
+        $.each(list_internet_service_oth_no, function(index, value) {
+         $('#DeviceProtection').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });
+
+        $('#TechSupport').empty()
+        $.each(list_internet_service_oth_no, function(index, value) {
+         $('#TechSupport').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });   
+
+        $('#StreamingTV').empty()
+        $.each(list_internet_service_oth_no, function(index, value) {
+         $('#StreamingTV').append('<option value="'+value.value+'">'+value.name+'</option>');
+        }); 
+
+        $('#StreamingMovies').empty()
+        $.each(list_internet_service_oth_no, function(index, value) {
+         $('#StreamingMovies').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });                 
+      }
+      else if($(this).is(':checked') && $(this).val() == '1')
+      {
+        $('#OnlineSecurity').empty()
+        $.each(list_internet_service_oth_yes, function(index, value) {
+         $('#OnlineSecurity').append('<option value="'+value.value+'">'+value.name+'</option>');
+        }); 
+
+        $('#OnlineBackup').empty()
+        $.each(list_internet_service_oth_yes, function(index, value) {
+         $('#OnlineBackup').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });
+
+        $('#DeviceProtection').empty()
+        $.each(list_internet_service_oth_yes, function(index, value) {
+         $('#DeviceProtection').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });  
+
+        $('#TechSupport').empty()
+        $.each(list_internet_service_oth_yes, function(index, value) {
+         $('#TechSupport').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });
+
+        $('#StreamingTV').empty()
+        $.each(list_internet_service_oth_yes, function(index, value) {
+         $('#StreamingTV').append('<option value="'+value.value+'">'+value.name+'</option>');
+        });
+
+        $('#StreamingMovies').empty()
+        $.each(list_internet_service_oth_yes, function(index, value) {
+         $('#StreamingMovies').append('<option value="'+value.value+'">'+value.name+'</option>');
+        }); 
+      }
+      else
+      {
+
+      }
+
+  });
+});
+</script>
+
+{% include "layout/footer.html" %}
