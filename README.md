@@ -4,8 +4,9 @@ This project is a Text Extraction and Text Classification project. The model tak
 # Deployment
 https://fadilah-final-project.herokuapp.com/
 
-# Slide
-https://docs.google.com/presentation/d/14xUItwSmjrJR5xzWNmfg6T587JFqoJUW4F8ld3Hv1LM/edit?usp=sharing
+# Slide & Presentation
+- Slide: https://docs.google.com/presentation/d/14xUItwSmjrJR5xzWNmfg6T587JFqoJUW4F8ld3Hv1LM/edit?usp=sharing
+- Video: https://drive.google.com/file/d/1zdE0CJG7RGDSOrk1gEWB6hiTfH1qhna2/view?usp=sharing
 
 # Data Distribution
 - Majority of the job posting data that we have were posted ~30 days ago. There's not much of job vacancy that were posted in recently.
